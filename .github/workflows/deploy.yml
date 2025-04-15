@@ -8,17 +8,22 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Setup Cocos Creator
+      # 改用官方安装脚本（避免npm冲突）
+      - name: Install Cocos Creator
         run: |
-          npm install -g cocos-creator
-          creator build --platform web-mobile
+            wget https://cocos2d-x.org/filedown/CocosCreator_v2.4.2_linux.run
+            chmod +x CocosCreator_v2.4.2_linux.run
+            ./CocosCreator_v2.4.2_linux.run --mode unattended --install-dir ./creator
 
-      - name: Move build files to root directory
+      - name: Setup Env
         run: |
-          mv build/web-mobile/* ./          # 移动构建文件到根目录
-          rm -rf build                      # 移除原构建目录
+            echo "$(pwd)/creator/CocosCreator" >> $GITHUB_PATH
+
+      - name: Build Project
+        run: |
+            creator --path . --build "platform=web-mobile;outputDir=./build"
 
       - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./
+          publish_dir: ./build/web-mobile
