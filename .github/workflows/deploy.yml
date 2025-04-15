@@ -12,39 +12,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      # 方案1：使用国内镜像源
-      - name: Download via China Mirror
-        id: download
-        run: |
-          # 尝试清华镜像源
-          if ! wget https://mirrors.tuna.tsinghua.edu.cn/cocos-creator/CocosCreator_v2.4.2_linux.run; then
-            echo "方案1失败，尝试方案2..."
-            
-            # 方案2：使用Cloudflare代理
-            if ! wget https://ghproxy.com/https://download.cocos.com/Creator/v2.4.2/CocosCreator_v2.4.2_linux.run; then
-              echo "方案2失败，尝试方案3..."
-              
-              # 方案3：从GitHub Releases获取
-              wget https://github.com/cocos-creator/creator-docs/releases/download/v2.4.2/CocosCreator_v2.4.2_linux.run || \
-              (echo "所有下载方案均失败" && exit 1)
-            fi
-          fi
-          
-          # 重命名为统一文件名
-          mv CocosCreator_v*_linux.run CocosCreator.run
-          chmod +x CocosCreator.run
-
-      # 安装（保持不变）
-      - name: Install Cocos Creator
-        run: |
-          ./CocosCreator.run --mode unattended --install-dir ./creator
-          echo "$(pwd)/creator/CocosCreator" >> $GITHUB_PATH
-
-      # 构建和部署（保持不变）
-      - name: Build Project
-        run: |
-          creator --path . --build "platform=web-mobile;outputDir=./build"
-
       - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}

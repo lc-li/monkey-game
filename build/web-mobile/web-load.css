@@ -1,0 +1,109 @@
+:root {
+  --bar-color-front: #2078ff;
+  --bar-color-rear: #2078ff;
+}
+
+body {
+  background-color: #ffffff !important;
+}
+
+@keyframes zbw-img-one {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(-40px);
+    transform: translateY(-40px);
+
+  }
+
+}
+
+@-webkit-keyframes zbw-img-one {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(-40px);
+    transform: translateY(-40px);
+  }
+}
+
+@keyframes zbw-progress-bar {
+  0% {
+    opacity: 0;
+  }
+
+}
+
+@-webkit-keyframes zbw-progress-bar {
+  0% {
+    opacity: 0;
+  }
+}
+
+#zbw-img {
+  width: 200px;
+  height: 110px;
+  animation: zbw-img-one 1s;
+  -webkit-animation: zbw-img-one 1s;
+}
+
+@media screen and (max-width: 768px) {
+  #zbw-img {
+    width: 200;
+    height: 110;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .label {
+    font-size: 12px !important;
+  }
+}
+
+#zbw-web-logo {
+  position: absolute;
+  margin: auto;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  opacity: 1;
+  transition: all 0.5s;
+  background-color: #171925;
+}
+
+.label {
+  font-size: 19px;
+}
+
+.zbw-progress {
+  position: absolute;
+  bottom: 10%;
+  width: inherit;
+}
+
+.zbw-progress-label {
+  margin-bottom: 10px;
+  animation: zbw-progress-bar 1.5s;
+  -webkit-animation: zbw-progress-bar 1.5s;
+}
+
+.zbw-progress-bar {
+  height: 10px;
+  padding: 5px;
+  width: 100%;
+  border-radius: 7px;
+  box-shadow: 0 1px 5px #e0e0e0 inset;
+  animation: zbw-progress-bar 1.5s;
+  -webkit-animation: zbw-progress-bar 1.5s;
+}
+
+.zbw-progress-bar span {
+  display: block;
+  height: 100%;
+  border-radius: 3px;
+  transition: width 0.4s ease-in-out;
+  background-image: linear-gradient(to right, var(--bar-color-front), var(--bar-color-rear));
+}
