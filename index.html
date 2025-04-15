@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monkey Game</title>
+    <link rel="stylesheet" href="styles.css"> <!-- 如果有样式文件 -->
+    <script src="assets/Script/tool/GameGlobal.js"></script> <!-- 引入必要的脚本 -->
+    <script src="assets/Script/tool/GameWeb.js"></script>
+    <script src="assets/Script/login/Login.js"></script>
+    <script src="assets/Script/invite/InviteLayout.js"></script>
+    <!-- 添加其他必要的脚本 -->
+</head>
+<body>
+    <h1>欢迎来到猴子游戏！</h1>
+    <p>请点击下面的按钮开始游戏：</p>
+    <button id="startGame">开始游戏</button>
+
+    <script>
+        document.getElementById('startGame').addEventListener('click', function() {
+            // 在这里添加启动游戏的逻辑
+            console.log('游戏开始！');
+        });
+    </script>
+</body>
+</html>
