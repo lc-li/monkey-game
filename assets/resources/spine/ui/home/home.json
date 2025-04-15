@@ -1,0 +1,83 @@
+{
+"skeleton": {
+	"hash": "IMFk4tn+mkacuaD0AYbRthuDu+Q",
+	"spine": "3.8.99",
+	"x": -55.43,
+	"y": -52.86,
+	"width": 111,
+	"height": 112,
+	"fps": 10,
+	"images": "./images/",
+	"audio": "C:/Users/HippoJoy/Desktop/home"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "home", "parent": "root", "length": 44.71, "rotation": 89.64, "x": -0.45, "y": 0.38 },
+	{ "name": "cai", "parent": "home", "length": 22.55, "rotation": 132.87, "x": -52.53, "y": 74.92 },
+	{
+		"name": "guang",
+		"parent": "root",
+		"length": 30.11,
+		"rotation": -1.35,
+		"x": 0.09,
+		"y": 4.88,
+		"color": "ff1515ff"
+	}
+],
+"slots": [
+	{ "name": "guang", "bone": "guang", "attachment": "guang" },
+	{ "name": "home", "bone": "home", "attachment": "home" },
+	{ "name": "cai", "bone": "cai", "attachment": "cai" },
+	{ "name": "homeb", "bone": "home", "attachment": "homeb" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"cai": {
+				"cai": {
+					"type": "clipping",
+					"end": "cai",
+					"vertexCount": 4,
+					"vertices": [ 4.86, -65.71, 7.62, 72.77, -4.39, 72.65, -8.13, -66.47 ],
+					"color": "ce3a3aff"
+				}
+			},
+			"guang": {
+				"guang": { "x": 0.02, "y": -1.74, "rotation": 1.35, "width": 111, "height": 112 }
+			},
+			"home": {
+				"home": { "x": 7.91, "y": -0.77, "rotation": -89.64, "width": 80, "height": 80 }
+			},
+			"homeb": {
+				"homeb": { "x": 7.91, "y": -0.77, "rotation": -89.64, "width": 79, "height": 79 }
+			}
+		}
+	}
+],
+"animations": {
+	"loop_1": {
+		"bones": {
+			"cai": {
+				"translate": [
+					{ "x": 18.51, "y": -19.94, "curve": "stepped" },
+					{ "time": 1.5, "x": 18.51, "y": -19.94 },
+					{ "time": 2.3, "x": 98.26, "y": -105.84 }
+				]
+			},
+			"guang": {
+				"rotate": [
+					{ "angle": 1.35 },
+					{ "time": 1.2, "angle": -178.65 },
+					{ "time": 1.4, "angle": 148.62 },
+					{ "time": 1.6, "angle": 115.89 },
+					{ "time": 1.8, "angle": 83.16 },
+					{ "time": 2, "angle": 50.44 },
+					{ "time": 2.2, "angle": 17.71 },
+					{ "time": 2.3, "angle": 1.35 }
+				]
+			}
+		}
+	}
+}
+}

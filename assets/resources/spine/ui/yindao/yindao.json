@@ -1,0 +1,102 @@
+{
+"skeleton": {
+	"hash": "+WKN+PdHBatQl1V278vYlk3Tc5Q",
+	"spine": "3.8.99",
+	"x": -464.35,
+	"y": -199.71,
+	"width": 933,
+	"height": 718,
+	"fps": 10,
+	"images": "./images/",
+	"audio": "C:/Users/HippoJoy/Desktop/闪烁/2"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "yindao", "parent": "root", "x": 1.65, "y": 159.29 }
+],
+"slots": [
+	{ "name": "jindu", "bone": "yindao", "attachment": "jindu_Image Frames_10" },
+	{ "name": "yindao2", "bone": "yindao", "attachment": "da_Image Frames_10" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"jindu": {
+				"jindu_Image Frames_01": { "x": -8.6, "y": 1.93, "width": 570, "height": 292 },
+				"jindu_Image Frames_02": { "x": -8.6, "y": 1.93, "width": 570, "height": 288 },
+				"jindu_Image Frames_03": { "x": -8.6, "y": 1.93, "width": 570, "height": 292 },
+				"jindu_Image Frames_04": { "x": -8.6, "y": 1.93, "width": 570, "height": 300 },
+				"jindu_Image Frames_05": { "x": -8.6, "y": 1.93, "width": 570, "height": 310 },
+				"jindu_Image Frames_06": { "x": -8.6, "y": 2.43, "width": 570, "height": 317 },
+				"jindu_Image Frames_07": { "x": -8.6, "y": 2.43, "width": 570, "height": 323 },
+				"jindu_Image Frames_08": { "x": -8.6, "y": 2.43, "width": 570, "height": 317 },
+				"jindu_Image Frames_09": { "x": -8.6, "y": 2.43, "width": 570, "height": 309 },
+				"jindu_Image Frames_10": { "x": -8.6, "y": 1.93, "width": 570, "height": 300 }
+			},
+			"yindao2": {
+				"da_Image Frames_01": { "x": 0.5, "width": 933, "height": 718 },
+				"da_Image Frames_02": { "x": 0.5, "width": 933, "height": 718 },
+				"da_Image Frames_03": { "x": 0.5, "width": 933, "height": 718 },
+				"da_Image Frames_04": { "x": 0.5, "width": 933, "height": 718 },
+				"da_Image Frames_05": { "x": 0.5, "width": 933, "height": 718 },
+				"da_Image Frames_06": { "x": 0.5, "width": 933, "height": 718 },
+				"da_Image Frames_07": { "x": 0.5, "width": 933, "height": 718 },
+				"da_Image Frames_08": { "x": 0.5, "width": 933, "height": 718 },
+				"da_Image Frames_09": { "x": 0.5, "width": 933, "height": 718 },
+				"da_Image Frames_10": { "x": 0.5, "width": 933, "height": 718 }
+			}
+		}
+	}
+],
+"animations": {
+	"loop_1": {
+		"slots": {
+			"jindu": {
+				"attachment": [
+					{ "name": "jindu_Image Frames_01" },
+					{ "time": 0.1, "name": "jindu_Image Frames_02" },
+					{ "time": 0.2, "name": "jindu_Image Frames_03" },
+					{ "time": 0.3, "name": "jindu_Image Frames_04" },
+					{ "time": 0.4, "name": "jindu_Image Frames_05" },
+					{ "time": 0.5, "name": "jindu_Image Frames_06" },
+					{ "time": 0.6, "name": "jindu_Image Frames_07" },
+					{ "time": 0.7, "name": "jindu_Image Frames_08" },
+					{ "time": 0.8, "name": "jindu_Image Frames_09" },
+					{ "time": 0.9, "name": "jindu_Image Frames_10" },
+					{ "time": 1, "name": "jindu_Image Frames_01" }
+				]
+			},
+			"yindao2": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"loop_2": {
+		"slots": {
+			"jindu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"yindao2": {
+				"attachment": [
+					{ "name": "da_Image Frames_01" },
+					{ "time": 0.1, "name": "da_Image Frames_02" },
+					{ "time": 0.2, "name": "da_Image Frames_03" },
+					{ "time": 0.3, "name": "da_Image Frames_04" },
+					{ "time": 0.4, "name": "da_Image Frames_05" },
+					{ "time": 0.5, "name": "da_Image Frames_06" },
+					{ "time": 0.6, "name": "da_Image Frames_07" },
+					{ "time": 0.7, "name": "da_Image Frames_08" },
+					{ "time": 0.8, "name": "da_Image Frames_09" },
+					{ "time": 0.9, "name": "da_Image Frames_10" },
+					{ "time": 1, "name": "da_Image Frames_01" }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,99 @@
+{
+"skeleton": {
+	"hash": "Fornb51y83ItWrsyaFaCK7805uM",
+	"spine": "3.8.99",
+	"x": -142.73,
+	"y": -1.18,
+	"width": 199.2,
+	"height": 292,
+	"images": "./images/",
+	"audio": "C:/Users/HippoJoy/Desktop/猴子打狗/images2/dh_monkey_5"
+},
+"bones": [
+	{ "name": "root", "scaleX": 0.8, "scaleY": 0.8 },
+	{ "name": "idle", "parent": "root", "length": 90.48, "rotation": -178.38, "x": 5.19, "y": 95.87 }
+],
+"slots": [
+	{ "name": "idle", "bone": "idle", "attachment": "skin4 idle_Image Frames_30" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"idle": {
+				"skin4 idle_Image Frames_01": { "x": 56.68, "y": -86.79, "rotation": 178.38, "width": 249, "height": 365 },
+				"skin4 idle_Image Frames_02": { "x": 56.68, "y": -86.79, "rotation": 178.38, "width": 249, "height": 365 },
+				"skin4 idle_Image Frames_03": { "x": 56.68, "y": -86.79, "rotation": 178.38, "width": 249, "height": 365 },
+				"skin4 idle_Image Frames_04": { "x": 56.72, "y": -85.29, "rotation": 178.38, "width": 249, "height": 362 },
+				"skin4 idle_Image Frames_05": { "x": 56.72, "y": -85.29, "rotation": 178.38, "width": 249, "height": 362 },
+				"skin4 idle_Image Frames_06": { "x": 56.72, "y": -85.29, "rotation": 178.38, "width": 249, "height": 362 },
+				"skin4 idle_Image Frames_07": { "x": 56.75, "y": -84.29, "rotation": 178.38, "width": 249, "height": 360 },
+				"skin4 idle_Image Frames_08": { "x": 56.75, "y": -84.29, "rotation": 178.38, "width": 249, "height": 360 },
+				"skin4 idle_Image Frames_09": { "x": 56.79, "y": -82.79, "rotation": 178.38, "width": 249, "height": 357 },
+				"skin4 idle_Image Frames_10": { "x": 56.79, "y": -82.79, "rotation": 178.38, "width": 249, "height": 357 },
+				"skin4 idle_Image Frames_11": { "x": 56.82, "y": -81.79, "rotation": 178.38, "width": 249, "height": 355 },
+				"skin4 idle_Image Frames_12": { "x": 56.82, "y": -81.79, "rotation": 178.38, "width": 249, "height": 355 },
+				"skin4 idle_Image Frames_13": { "x": 55.35, "y": -80.75, "rotation": 178.38, "width": 246, "height": 353 },
+				"skin4 idle_Image Frames_14": { "x": 55.35, "y": -80.75, "rotation": 178.38, "width": 246, "height": 353 },
+				"skin4 idle_Image Frames_15": { "x": 55.35, "y": -80.75, "rotation": 178.38, "width": 246, "height": 353 },
+				"skin4 idle_Image Frames_16": { "x": 55.39, "y": -79.25, "rotation": 178.38, "width": 246, "height": 350 },
+				"skin4 idle_Image Frames_17": { "x": 55.39, "y": -79.25, "rotation": 178.38, "width": 246, "height": 350 },
+				"skin4 idle_Image Frames_18": { "x": 55.35, "y": -80.75, "rotation": 178.38, "width": 246, "height": 353 },
+				"skin4 idle_Image Frames_19": { "x": 55.35, "y": -80.75, "rotation": 178.38, "width": 246, "height": 353 },
+				"skin4 idle_Image Frames_20": { "x": 56.85, "y": -80.79, "rotation": 178.38, "width": 249, "height": 353 },
+				"skin4 idle_Image Frames_21": { "x": 56.82, "y": -81.79, "rotation": 178.38, "width": 249, "height": 355 },
+				"skin4 idle_Image Frames_22": { "x": 56.82, "y": -81.79, "rotation": 178.38, "width": 249, "height": 355 },
+				"skin4 idle_Image Frames_23": { "x": 56.79, "y": -82.79, "rotation": 178.38, "width": 249, "height": 357 },
+				"skin4 idle_Image Frames_24": { "x": 56.79, "y": -82.79, "rotation": 178.38, "width": 249, "height": 357 },
+				"skin4 idle_Image Frames_25": { "x": 56.75, "y": -84.29, "rotation": 178.38, "width": 249, "height": 360 },
+				"skin4 idle_Image Frames_26": { "x": 56.75, "y": -84.29, "rotation": 178.38, "width": 249, "height": 360 },
+				"skin4 idle_Image Frames_27": { "x": 56.72, "y": -85.29, "rotation": 178.38, "width": 249, "height": 362 },
+				"skin4 idle_Image Frames_28": { "x": 56.72, "y": -85.29, "rotation": 178.38, "width": 249, "height": 362 },
+				"skin4 idle_Image Frames_29": { "x": 56.72, "y": -85.29, "rotation": 178.38, "width": 249, "height": 362 },
+				"skin4 idle_Image Frames_30": { "x": 56.68, "y": -86.79, "rotation": 178.38, "width": 249, "height": 365 }
+			}
+		}
+	}
+],
+"animations": {
+	"loop_1": {
+		"slots": {
+			"idle": {
+				"attachment": [
+					{ "name": "skin4 idle_Image Frames_01" },
+					{ "time": 0.0333, "name": "skin4 idle_Image Frames_02" },
+					{ "time": 0.0667, "name": "skin4 idle_Image Frames_03" },
+					{ "time": 0.1, "name": "skin4 idle_Image Frames_04" },
+					{ "time": 0.1333, "name": "skin4 idle_Image Frames_05" },
+					{ "time": 0.1667, "name": "skin4 idle_Image Frames_06" },
+					{ "time": 0.2, "name": "skin4 idle_Image Frames_07" },
+					{ "time": 0.2333, "name": "skin4 idle_Image Frames_08" },
+					{ "time": 0.2667, "name": "skin4 idle_Image Frames_09" },
+					{ "time": 0.3, "name": "skin4 idle_Image Frames_10" },
+					{ "time": 0.3333, "name": "skin4 idle_Image Frames_11" },
+					{ "time": 0.3667, "name": "skin4 idle_Image Frames_12" },
+					{ "time": 0.4, "name": "skin4 idle_Image Frames_13" },
+					{ "time": 0.4333, "name": "skin4 idle_Image Frames_14" },
+					{ "time": 0.4667, "name": "skin4 idle_Image Frames_15" },
+					{ "time": 0.5, "name": "skin4 idle_Image Frames_16" },
+					{ "time": 0.5333, "name": "skin4 idle_Image Frames_17" },
+					{ "time": 0.5667, "name": "skin4 idle_Image Frames_18" },
+					{ "time": 0.6, "name": "skin4 idle_Image Frames_19" },
+					{ "time": 0.6333, "name": "skin4 idle_Image Frames_20" },
+					{ "time": 0.6667, "name": "skin4 idle_Image Frames_21" },
+					{ "time": 0.7, "name": "skin4 idle_Image Frames_22" },
+					{ "time": 0.7333, "name": "skin4 idle_Image Frames_23" },
+					{ "time": 0.7667, "name": "skin4 idle_Image Frames_24" },
+					{ "time": 0.8, "name": "skin4 idle_Image Frames_25" },
+					{ "time": 0.8333, "name": "skin4 idle_Image Frames_26" },
+					{ "time": 0.8667, "name": "skin4 idle_Image Frames_27" },
+					{ "time": 0.9, "name": "skin4 idle_Image Frames_28" },
+					{ "time": 0.9333, "name": "skin4 idle_Image Frames_29" },
+					{ "time": 0.9667, "name": "skin4 idle_Image Frames_30" },
+					{ "time": 1, "name": "skin4 idle_Image Frames_01" }
+				]
+			}
+		}
+	}
+}
+}

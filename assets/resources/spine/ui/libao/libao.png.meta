@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "e126f7b3-5d4c-495f-ab2b-29206fcaec3d",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 68,
+  "height": 68,
+  "platformSettings": {},
+  "subMetas": {
+    "libao": {
+      "ver": "1.0.6",
+      "uuid": "ba9614fd-aab4-477a-b34c-5d77dc89996f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "e126f7b3-5d4c-495f-ab2b-29206fcaec3d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 64,
+      "height": 63,
+      "rawWidth": 68,
+      "rawHeight": 68,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

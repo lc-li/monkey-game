@@ -1,0 +1,27 @@
+
+jiazai.png
+size: 566,214
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+quan1
+  rotate: false
+  xy: 2, 2
+  size: 210, 210
+  orig: 212, 212
+  offset: 1, 1
+  index: -1
+quan2
+  rotate: false
+  xy: 214, 2
+  size: 210, 210
+  orig: 212, 212
+  offset: 1, 1
+  index: -1
+tou
+  rotate: true
+  xy: 426, 72
+  size: 140, 138
+  orig: 142, 140
+  offset: 1, 1
+  index: -1

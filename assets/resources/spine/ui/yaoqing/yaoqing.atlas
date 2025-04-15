@@ -1,0 +1,20 @@
+
+yaoqing.png
+size: 143,98
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+libao
+  rotate: false
+  xy: 2, 2
+  size: 106, 94
+  orig: 106, 94
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 110, 17
+  size: 79, 31
+  orig: 120, 120
+  offset: 20, 8
+  index: -1

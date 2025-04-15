@@ -1,0 +1,20 @@
+
+shuju.png
+size: 426,201
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fdj
+  rotate: false
+  xy: 350, 123
+  size: 74, 76
+  orig: 380, 380
+  offset: 194, 120
+  index: -1
+zhi
+  rotate: false
+  xy: 2, 2
+  size: 346, 197
+  orig: 380, 380
+  offset: 12, 108
+  index: -1

@@ -1,0 +1,13 @@
+
+beibao.png
+size: 72,76
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+背包
+  rotate: false
+  xy: 2, 2
+  size: 68, 70
+  orig: 68, 70
+  offset: 0, 0
+  index: -1

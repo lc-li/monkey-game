@@ -1,0 +1,94 @@
+{
+"skeleton": {
+	"hash": "+kqEi9vB/EtHIqutjLtprjT0zsI",
+	"spine": "3.8.99",
+	"x": -281.78,
+	"y": 71.72,
+	"width": 612.77,
+	"height": 404.29,
+	"fps": 10,
+	"images": "./images/",
+	"audio": "C:/Users/HippoJoy/Desktop/进度条"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "hong", "parent": "root", "x": 0.56, "y": 263.53 },
+	{
+		"name": "1",
+		"parent": "root",
+		"length": 62.77,
+		"rotation": -0.81,
+		"x": 5.38,
+		"y": 270.03,
+		"scaleX": 1.0211,
+		"scaleY": 1.0415
+	}
+],
+"slots": [
+	{ "name": "beij", "bone": "root" },
+	{ "name": "hong", "bone": "hong" },
+	{ "name": "1", "bone": "1", "attachment": "10" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"1": {
+				"1": { "x": 18.78, "y": 3.95, "rotation": 0.81, "width": 600, "height": 388 },
+				"2": { "x": 18.78, "y": 3.95, "rotation": 0.81, "width": 600, "height": 388 },
+				"3": { "x": 18.78, "y": 3.95, "rotation": 0.81, "width": 600, "height": 388 },
+				"4": { "x": 18.78, "y": 3.95, "rotation": 0.81, "width": 600, "height": 388 },
+				"5": { "x": 18.78, "y": 3.95, "rotation": 0.81, "width": 600, "height": 388 },
+				"6": { "x": 18.78, "y": 3.95, "rotation": 0.81, "width": 600, "height": 388 },
+				"7": { "x": 18.78, "y": 3.95, "rotation": 0.81, "width": 600, "height": 388 },
+				"8": { "x": 18.78, "y": 3.95, "rotation": 0.81, "width": 600, "height": 388 },
+				"9": { "x": 18.78, "y": 3.95, "rotation": 0.81, "width": 600, "height": 388 },
+				"10": { "x": 18.78, "y": 3.95, "rotation": 0.81, "width": 600, "height": 388 }
+			},
+			"hong": {
+				"hong": { "x": 5.95, "y": -2, "width": 554, "height": 52 }
+			}
+		}
+	}
+],
+"animations": {
+	"start_1": {
+		"slots": {
+			"1": {
+				"attachment": [
+					{ "name": "1" },
+					{ "time": 0.1, "name": "2" },
+					{ "time": 0.2, "name": "3" },
+					{ "time": 0.3, "name": "4" },
+					{ "time": 0.4, "name": "5" },
+					{ "time": 0.5, "name": "6" },
+					{ "time": 0.6, "name": "7" },
+					{ "time": 0.7, "name": "8" },
+					{ "time": 0.8, "name": "9" },
+					{ "time": 0.9, "name": "10" },
+					{ "time": 1, "name": "1" }
+				]
+			}
+		}
+	},
+	"start_2": {
+		"slots": {
+			"1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"hong": {
+				"color": [
+					{ "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": "hong" }
+				]
+			}
+		}
+	}
+}
+}

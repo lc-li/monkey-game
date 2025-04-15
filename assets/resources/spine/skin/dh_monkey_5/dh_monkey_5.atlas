@@ -1,0 +1,2324 @@
+
+dh_monkey_5.png
+size: 2044,1966
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1 hurt_Image Frames_2
+  rotate: false
+  xy: 1518, 143
+  size: 227, 287
+  orig: 380, 310
+  offset: 76, 12
+  index: -1
+1 hurt_Image Frames_5
+  rotate: false
+  xy: 1764, 274
+  size: 270, 270
+  orig: 380, 310
+  offset: 56, 19
+  index: -1
+1 hurt_Image Frames_6
+  rotate: false
+  xy: 1788, 1090
+  size: 245, 265
+  orig: 380, 310
+  offset: 68, 22
+  index: -1
+1 hurt_Image Frames_7
+  rotate: true
+  xy: 1503, 915
+  size: 225, 275
+  orig: 380, 310
+  offset: 78, 17
+  index: -1
+1 hurt_Image Frames_8
+  rotate: true
+  xy: 2, 958
+  size: 215, 285
+  orig: 380, 310
+  offset: 83, 12
+  index: -1
+1 hurt_Image Frames_9
+  rotate: true
+  xy: 1132, 1572
+  size: 210, 292
+  orig: 380, 310
+  offset: 86, 10
+  index: -1
+1 idle2_Image Frames_04
+  rotate: true
+  xy: 606, 65
+  size: 215, 303
+  orig: 220, 310
+  offset: 3, 4
+  index: -1
+1 idle2_Image Frames_06
+  rotate: true
+  xy: 911, 280
+  size: 215, 300
+  orig: 220, 310
+  offset: 3, 4
+  index: -1
+1 idle2_Image Frames_07
+  rotate: true
+  xy: 713, 1364
+  size: 213, 297
+  orig: 220, 310
+  offset: 3, 7
+  index: -1
+1 idle2_Image Frames_08
+  rotate: true
+  xy: 1012, 1357
+  size: 213, 297
+  orig: 220, 310
+  offset: 3, 7
+  index: -1
+1 idle2_Image Frames_09
+  rotate: true
+  xy: 1311, 1357
+  size: 213, 297
+  orig: 220, 310
+  offset: 3, 7
+  index: -1
+1 idle2_Image Frames_10
+  rotate: true
+  xy: 1610, 1357
+  size: 213, 297
+  orig: 220, 310
+  offset: 3, 7
+  index: -1
+1 idle2_Image Frames_11
+  rotate: true
+  xy: 2, 1175
+  size: 213, 295
+  orig: 220, 310
+  offset: 3, 7
+  index: -1
+1 idle2_Image Frames_12
+  rotate: true
+  xy: 2, 93
+  size: 215, 295
+  orig: 220, 310
+  offset: 3, 7
+  index: -1
+1 idle2_Image Frames_13
+  rotate: true
+  xy: 911, 63
+  size: 215, 295
+  orig: 220, 310
+  offset: 3, 7
+  index: -1
+1 idle2_Image Frames_14
+  rotate: true
+  xy: 1747, 57
+  size: 215, 295
+  orig: 220, 310
+  offset: 3, 7
+  index: -1
+1 idle2_Image Frames_21
+  rotate: true
+  xy: 299, 1170
+  size: 213, 295
+  orig: 220, 310
+  offset: 3, 7
+  index: -1
+1 idle2_Image Frames_22
+  rotate: true
+  xy: 596, 1149
+  size: 213, 295
+  orig: 220, 310
+  offset: 3, 7
+  index: -1
+1 idle2_Image Frames_23
+  rotate: true
+  xy: 893, 1142
+  size: 213, 295
+  orig: 220, 310
+  offset: 3, 7
+  index: -1
+1 idle2_Image Frames_24
+  rotate: true
+  xy: 1190, 1142
+  size: 213, 297
+  orig: 220, 310
+  offset: 3, 7
+  index: -1
+1 idle2_Image Frames_25
+  rotate: true
+  xy: 1489, 1142
+  size: 213, 297
+  orig: 220, 310
+  offset: 3, 7
+  index: -1
+1 idle2_Image Frames_26
+  rotate: true
+  xy: 289, 955
+  size: 213, 300
+  orig: 220, 310
+  offset: 3, 4
+  index: -1
+1 idle2_Image Frames_27
+  rotate: true
+  xy: 591, 934
+  size: 213, 300
+  orig: 220, 310
+  offset: 3, 4
+  index: -1
+1 idle2_Image Frames_28
+  rotate: true
+  xy: 893, 927
+  size: 213, 303
+  orig: 220, 310
+  offset: 3, 4
+  index: -1
+1 idle_Image Frames_07
+  rotate: true
+  xy: 1198, 927
+  size: 213, 303
+  orig: 220, 310
+  offset: 3, 4
+  index: -1
+1 idle_Image Frames_08
+  rotate: true
+  xy: 2, 740
+  size: 213, 303
+  orig: 220, 310
+  offset: 3, 4
+  index: -1
+1 idle_Image Frames_09
+  rotate: true
+  xy: 586, 719
+  size: 213, 303
+  orig: 220, 310
+  offset: 3, 4
+  index: -1
+1 idle_Image Frames_10
+  rotate: true
+  xy: 891, 712
+  size: 213, 303
+  orig: 220, 310
+  offset: 3, 4
+  index: -1
+1 idle_Image Frames_11
+  rotate: true
+  xy: 1196, 712
+  size: 213, 303
+  orig: 220, 310
+  offset: 3, 4
+  index: -1
+1 idle_Image Frames_21
+  rotate: true
+  xy: 2, 525
+  size: 213, 300
+  orig: 220, 310
+  offset: 3, 4
+  index: -1
+1 idle_Image Frames_22
+  rotate: true
+  xy: 304, 504
+  size: 213, 300
+  orig: 220, 310
+  offset: 3, 4
+  index: -1
+1 idle_Image Frames_23
+  rotate: true
+  xy: 606, 497
+  size: 213, 300
+  orig: 220, 310
+  offset: 3, 4
+  index: -1
+1 idle_Image Frames_24
+  rotate: true
+  xy: 908, 497
+  size: 213, 303
+  orig: 220, 310
+  offset: 3, 4
+  index: -1
+1 idle_Image Frames_25
+  rotate: true
+  xy: 301, 289
+  size: 213, 303
+  orig: 220, 310
+  offset: 3, 4
+  index: -1
+1 idle_Image Frames_26
+  rotate: true
+  xy: 606, 282
+  size: 213, 303
+  orig: 220, 310
+  offset: 3, 4
+  index: -1
+1 idle_Image Frames_27
+  rotate: true
+  xy: 1213, 217
+  size: 213, 303
+  orig: 220, 310
+  offset: 3, 4
+  index: -1
+1 idle_Image Frames_28
+  rotate: true
+  xy: 299, 74
+  size: 213, 305
+  orig: 220, 310
+  offset: 3, 2
+  index: -1
+2 hurt_Image Frames_6
+  rotate: false
+  xy: 1780, 818
+  size: 247, 270
+  orig: 380, 315
+  offset: 66, 21
+  index: -1
+2 hurt_Image Frames_7
+  rotate: true
+  xy: 307, 726
+  size: 227, 277
+  orig: 380, 315
+  offset: 76, 19
+  index: -1
+2 hurt_Image Frames_9
+  rotate: true
+  xy: 1426, 1572
+  size: 210, 297
+  orig: 380, 315
+  offset: 86, 9
+  index: -1
+2 idle2_Image Frames_09
+  rotate: true
+  xy: 1208, 2
+  size: 213, 307
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+3 hurt_Image Frames_6
+  rotate: false
+  xy: 1780, 546
+  size: 255, 270
+  orig: 380, 315
+  offset: 63, 21
+  index: -1
+3 hurt_Image Frames_7
+  rotate: true
+  xy: 1213, 478
+  size: 232, 277
+  orig: 380, 315
+  offset: 73, 19
+  index: -1
+3 hurt_Image Frames_9
+  rotate: true
+  xy: 1725, 1572
+  size: 210, 297
+  orig: 380, 315
+  offset: 86, 9
+  index: -1
+4 hurt_Image Frames_6
+  rotate: true
+  xy: 1492, 432
+  size: 249, 270
+  orig: 380, 315
+  offset: 66, 21
+  index: -1
+4 hurt_Image Frames_7
+  rotate: true
+  xy: 1501, 683
+  size: 230, 277
+  orig: 380, 315
+  offset: 76, 19
+  index: -1
+4 hurt_Image Frames_9
+  rotate: true
+  xy: 2, 310
+  size: 213, 297
+  orig: 380, 315
+  offset: 83, 9
+  index: -1
+skin4 atk_Image Frames_04
+  rotate: true
+  xy: 758, 1579
+  size: 203, 372
+  orig: 205, 374
+  offset: 1, 1
+  index: -1
+skin4 atk_Image Frames_05
+  rotate: true
+  xy: 381, 1597
+  size: 185, 375
+  orig: 187, 377
+  offset: 1, 1
+  index: -1
+skin4 atk_Image Frames_06
+  rotate: true
+  xy: 2, 1784
+  size: 180, 377
+  orig: 182, 379
+  offset: 1, 1
+  index: -1
+skin4 atk_Image Frames_07
+  rotate: true
+  xy: 381, 1784
+  size: 180, 377
+  orig: 182, 379
+  offset: 1, 1
+  index: -1
+skin4 atk_Image Frames_08
+  rotate: true
+  xy: 760, 1784
+  size: 180, 377
+  orig: 182, 379
+  offset: 1, 1
+  index: -1
+skin4 atk_Image Frames_09
+  rotate: true
+  xy: 1139, 1784
+  size: 180, 377
+  orig: 182, 379
+  offset: 1, 1
+  index: -1
+skin4 atk_Image Frames_10
+  rotate: true
+  xy: 1518, 1784
+  size: 180, 377
+  orig: 182, 379
+  offset: 1, 1
+  index: -1
+skin4 atk_Image Frames_11
+  rotate: true
+  xy: 2, 1602
+  size: 180, 377
+  orig: 182, 379
+  offset: 1, 1
+  index: -1
+skin4 atk_Image Frames_14
+  rotate: true
+  xy: 2, 1390
+  size: 210, 350
+  orig: 212, 352
+  offset: 1, 1
+  index: -1
+skin4 atk_Image Frames_17
+  rotate: true
+  xy: 354, 1385
+  size: 210, 357
+  orig: 212, 359
+  offset: 1, 1
+  index: -1
+
+dh_monkey_52.png
+size: 2036,2021
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1 hurt_Image Frames_1
+  rotate: true
+  xy: 2, 1159
+  size: 215, 305
+  orig: 380, 310
+  offset: 83, 2
+  index: -1
+1 hurt_Image Frames_3
+  rotate: false
+  xy: 1238, 6
+  size: 263, 283
+  orig: 380, 310
+  offset: 58, 14
+  index: -1
+1 idle2_Image Frames_01
+  rotate: true
+  xy: 309, 1159
+  size: 215, 305
+  orig: 220, 310
+  offset: 3, 2
+  index: -1
+1 idle2_Image Frames_02
+  rotate: true
+  xy: 616, 1159
+  size: 215, 305
+  orig: 220, 310
+  offset: 3, 2
+  index: -1
+1 idle2_Image Frames_03
+  rotate: true
+  xy: 923, 1159
+  size: 215, 305
+  orig: 220, 310
+  offset: 3, 2
+  index: -1
+1 idle2_Image Frames_05
+  rotate: true
+  xy: 1230, 1159
+  size: 215, 303
+  orig: 220, 310
+  offset: 3, 4
+  index: -1
+1 idle2_Image Frames_15
+  rotate: true
+  xy: 1535, 1159
+  size: 215, 295
+  orig: 220, 310
+  offset: 3, 7
+  index: -1
+1 idle2_Image Frames_16
+  rotate: true
+  xy: 2, 942
+  size: 215, 295
+  orig: 220, 310
+  offset: 3, 7
+  index: -1
+1 idle2_Image Frames_17
+  rotate: true
+  xy: 299, 942
+  size: 215, 295
+  orig: 220, 310
+  offset: 3, 7
+  index: -1
+1 idle2_Image Frames_18
+  rotate: true
+  xy: 596, 942
+  size: 215, 295
+  orig: 220, 310
+  offset: 3, 7
+  index: -1
+1 idle2_Image Frames_19
+  rotate: true
+  xy: 893, 942
+  size: 215, 295
+  orig: 220, 310
+  offset: 3, 7
+  index: -1
+1 idle2_Image Frames_20
+  rotate: true
+  xy: 1190, 942
+  size: 215, 295
+  orig: 220, 310
+  offset: 3, 7
+  index: -1
+1 idle2_Image Frames_29
+  rotate: true
+  xy: 1487, 942
+  size: 215, 303
+  orig: 220, 310
+  offset: 3, 4
+  index: -1
+1 idle2_Image Frames_30
+  rotate: true
+  xy: 2, 725
+  size: 215, 305
+  orig: 220, 310
+  offset: 3, 2
+  index: -1
+1 idle_Image Frames_01
+  rotate: true
+  xy: 309, 725
+  size: 215, 305
+  orig: 220, 310
+  offset: 3, 2
+  index: -1
+1 idle_Image Frames_02
+  rotate: true
+  xy: 616, 725
+  size: 215, 305
+  orig: 220, 310
+  offset: 3, 2
+  index: -1
+1 idle_Image Frames_03
+  rotate: true
+  xy: 923, 725
+  size: 215, 305
+  orig: 220, 310
+  offset: 3, 2
+  index: -1
+1 idle_Image Frames_04
+  rotate: true
+  xy: 1230, 725
+  size: 215, 305
+  orig: 220, 310
+  offset: 3, 2
+  index: -1
+1 idle_Image Frames_05
+  rotate: true
+  xy: 1537, 653
+  size: 215, 305
+  orig: 220, 310
+  offset: 3, 2
+  index: -1
+1 idle_Image Frames_06
+  rotate: true
+  xy: 2, 508
+  size: 215, 305
+  orig: 220, 310
+  offset: 3, 2
+  index: -1
+1 idle_Image Frames_12
+  rotate: true
+  xy: 309, 508
+  size: 215, 300
+  orig: 220, 310
+  offset: 3, 4
+  index: -1
+1 idle_Image Frames_13
+  rotate: true
+  xy: 611, 508
+  size: 215, 300
+  orig: 220, 310
+  offset: 3, 4
+  index: -1
+1 idle_Image Frames_14
+  rotate: true
+  xy: 913, 508
+  size: 215, 300
+  orig: 220, 310
+  offset: 3, 4
+  index: -1
+1 idle_Image Frames_15
+  rotate: true
+  xy: 1215, 508
+  size: 215, 300
+  orig: 220, 310
+  offset: 3, 4
+  index: -1
+1 idle_Image Frames_16
+  rotate: true
+  xy: 1517, 436
+  size: 215, 300
+  orig: 220, 310
+  offset: 3, 4
+  index: -1
+1 idle_Image Frames_17
+  rotate: true
+  xy: 2, 291
+  size: 215, 297
+  orig: 220, 310
+  offset: 3, 7
+  index: -1
+1 idle_Image Frames_18
+  rotate: true
+  xy: 301, 291
+  size: 215, 297
+  orig: 220, 310
+  offset: 3, 7
+  index: -1
+1 idle_Image Frames_19
+  rotate: true
+  xy: 600, 291
+  size: 215, 297
+  orig: 220, 310
+  offset: 3, 7
+  index: -1
+1 idle_Image Frames_20
+  rotate: true
+  xy: 899, 291
+  size: 215, 300
+  orig: 220, 310
+  offset: 3, 4
+  index: -1
+1 idle_Image Frames_29
+  rotate: true
+  xy: 1201, 291
+  size: 215, 305
+  orig: 220, 310
+  offset: 3, 2
+  index: -1
+1 idle_Image Frames_30
+  rotate: true
+  xy: 1508, 219
+  size: 215, 305
+  orig: 220, 310
+  offset: 3, 2
+  index: -1
+2 hurt_Image Frames_1
+  rotate: true
+  xy: 2, 74
+  size: 215, 307
+  orig: 380, 315
+  offset: 83, 4
+  index: -1
+2 idle2_Image Frames_01
+  rotate: true
+  xy: 2, 74
+  size: 215, 307
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 hurt_Image Frames_8
+  rotate: false
+  xy: 1792, 870
+  size: 215, 287
+  orig: 380, 315
+  offset: 83, 14
+  index: -1
+2 idle2_Image Frames_02
+  rotate: true
+  xy: 311, 74
+  size: 215, 307
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle2_Image Frames_03
+  rotate: true
+  xy: 620, 74
+  size: 215, 307
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle2_Image Frames_04
+  rotate: true
+  xy: 929, 74
+  size: 215, 307
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle2_Image Frames_05
+  rotate: true
+  xy: 1503, 2
+  size: 215, 307
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle2_Image Frames_10
+  rotate: true
+  xy: 2, 1806
+  size: 213, 307
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle2_Image Frames_11
+  rotate: true
+  xy: 311, 1806
+  size: 213, 305
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle2_Image Frames_21
+  rotate: true
+  xy: 618, 1806
+  size: 213, 305
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle2_Image Frames_22
+  rotate: true
+  xy: 925, 1806
+  size: 213, 305
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle2_Image Frames_23
+  rotate: true
+  xy: 1232, 1806
+  size: 213, 307
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle2_Image Frames_24
+  rotate: true
+  xy: 1541, 1806
+  size: 213, 307
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle2_Image Frames_25
+  rotate: true
+  xy: 2, 1591
+  size: 213, 307
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle2_Image Frames_26
+  rotate: true
+  xy: 311, 1591
+  size: 213, 307
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle_Image Frames_09
+  rotate: true
+  xy: 620, 1591
+  size: 213, 307
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle_Image Frames_10
+  rotate: true
+  xy: 929, 1591
+  size: 213, 307
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle_Image Frames_11
+  rotate: true
+  xy: 1238, 1591
+  size: 213, 305
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle_Image Frames_21
+  rotate: true
+  xy: 1545, 1591
+  size: 213, 305
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle_Image Frames_22
+  rotate: true
+  xy: 2, 1376
+  size: 213, 305
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle_Image Frames_23
+  rotate: true
+  xy: 309, 1376
+  size: 213, 307
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle_Image Frames_24
+  rotate: true
+  xy: 618, 1376
+  size: 213, 307
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle_Image Frames_25
+  rotate: true
+  xy: 927, 1376
+  size: 213, 307
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle_Image Frames_26
+  rotate: true
+  xy: 1236, 1376
+  size: 213, 307
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+3 hurt_Image Frames_8
+  rotate: false
+  xy: 1819, 364
+  size: 215, 287
+  orig: 380, 315
+  offset: 83, 14
+  index: -1
+4 hurt_Image Frames_8
+  rotate: false
+  xy: 1815, 75
+  size: 215, 287
+  orig: 380, 315
+  offset: 83, 14
+  index: -1
+skin4 atk_Image Frames_15
+  rotate: true
+  xy: 1545, 1376
+  size: 213, 352
+  orig: 215, 354
+  offset: 1, 1
+  index: -1
+
+dh_monkey_53.png
+size: 1964,1976
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2 idle2_Image Frames_06
+  rotate: true
+  xy: 2, 1759
+  size: 215, 307
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle2_Image Frames_07
+  rotate: true
+  xy: 311, 1759
+  size: 215, 307
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle2_Image Frames_08
+  rotate: true
+  xy: 620, 1759
+  size: 215, 307
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle2_Image Frames_12
+  rotate: true
+  xy: 929, 1759
+  size: 215, 305
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle2_Image Frames_13
+  rotate: true
+  xy: 1236, 1759
+  size: 215, 305
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle2_Image Frames_14
+  rotate: true
+  xy: 1543, 1759
+  size: 215, 305
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle2_Image Frames_15
+  rotate: true
+  xy: 2, 1542
+  size: 215, 305
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle2_Image Frames_16
+  rotate: true
+  xy: 309, 1542
+  size: 215, 303
+  orig: 220, 315
+  offset: 3, 6
+  index: -1
+2 idle2_Image Frames_17
+  rotate: true
+  xy: 614, 1542
+  size: 215, 303
+  orig: 220, 315
+  offset: 3, 6
+  index: -1
+2 idle2_Image Frames_18
+  rotate: true
+  xy: 919, 1542
+  size: 215, 303
+  orig: 220, 315
+  offset: 3, 6
+  index: -1
+2 idle2_Image Frames_19
+  rotate: true
+  xy: 1224, 1542
+  size: 215, 305
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle2_Image Frames_20
+  rotate: true
+  xy: 1531, 1542
+  size: 215, 305
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle2_Image Frames_27
+  rotate: true
+  xy: 2, 1325
+  size: 215, 307
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle2_Image Frames_28
+  rotate: true
+  xy: 311, 1325
+  size: 215, 307
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle2_Image Frames_29
+  rotate: true
+  xy: 620, 1325
+  size: 215, 307
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle2_Image Frames_30
+  rotate: true
+  xy: 929, 1325
+  size: 215, 307
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle_Image Frames_01
+  rotate: true
+  xy: 1238, 1325
+  size: 215, 307
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle_Image Frames_02
+  rotate: true
+  xy: 1547, 1325
+  size: 215, 307
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle_Image Frames_03
+  rotate: true
+  xy: 2, 1108
+  size: 215, 307
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle_Image Frames_04
+  rotate: true
+  xy: 311, 1108
+  size: 215, 307
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle_Image Frames_05
+  rotate: true
+  xy: 620, 1108
+  size: 215, 307
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle_Image Frames_06
+  rotate: true
+  xy: 929, 1108
+  size: 215, 307
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle_Image Frames_07
+  rotate: true
+  xy: 1238, 1108
+  size: 215, 307
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle_Image Frames_08
+  rotate: true
+  xy: 1547, 1108
+  size: 215, 307
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle_Image Frames_12
+  rotate: true
+  xy: 2, 891
+  size: 215, 305
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle_Image Frames_13
+  rotate: true
+  xy: 309, 891
+  size: 215, 305
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle_Image Frames_14
+  rotate: true
+  xy: 616, 891
+  size: 215, 305
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle_Image Frames_15
+  rotate: true
+  xy: 923, 891
+  size: 215, 305
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle_Image Frames_16
+  rotate: true
+  xy: 1230, 891
+  size: 215, 303
+  orig: 220, 315
+  offset: 3, 6
+  index: -1
+2 idle_Image Frames_17
+  rotate: true
+  xy: 1535, 891
+  size: 215, 303
+  orig: 220, 315
+  offset: 3, 6
+  index: -1
+2 idle_Image Frames_18
+  rotate: true
+  xy: 2, 674
+  size: 215, 303
+  orig: 220, 315
+  offset: 3, 6
+  index: -1
+2 idle_Image Frames_19
+  rotate: true
+  xy: 307, 674
+  size: 215, 305
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle_Image Frames_20
+  rotate: true
+  xy: 614, 674
+  size: 215, 305
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle_Image Frames_27
+  rotate: true
+  xy: 921, 674
+  size: 215, 307
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle_Image Frames_28
+  rotate: true
+  xy: 1230, 674
+  size: 215, 307
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle_Image Frames_29
+  rotate: true
+  xy: 1539, 674
+  size: 215, 307
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+2 idle_Image Frames_30
+  rotate: true
+  xy: 2, 457
+  size: 215, 307
+  orig: 220, 315
+  offset: 3, 4
+  index: -1
+3 idle2_Image Frames_07
+  rotate: true
+  xy: 1037, 450
+  size: 222, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle2_Image Frames_08
+  rotate: true
+  xy: 1346, 450
+  size: 222, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle2_Image Frames_09
+  rotate: true
+  xy: 1655, 450
+  size: 222, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle2_Image Frames_10
+  rotate: true
+  xy: 2, 233
+  size: 222, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle2_Image Frames_11
+  rotate: true
+  xy: 311, 233
+  size: 222, 305
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle2_Image Frames_21
+  rotate: true
+  xy: 618, 228
+  size: 222, 305
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle2_Image Frames_22
+  rotate: true
+  xy: 925, 226
+  size: 222, 305
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle2_Image Frames_23
+  rotate: true
+  xy: 1232, 226
+  size: 222, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle2_Image Frames_24
+  rotate: true
+  xy: 1541, 226
+  size: 222, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle2_Image Frames_25
+  rotate: true
+  xy: 2, 9
+  size: 222, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle2_Image Frames_26
+  rotate: true
+  xy: 925, 2
+  size: 222, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle2_Image Frames_27
+  rotate: true
+  xy: 1234, 2
+  size: 222, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle_Image Frames_07
+  rotate: true
+  xy: 1543, 2
+  size: 222, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle_Image Frames_11
+  rotate: true
+  xy: 311, 9
+  size: 222, 305
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle_Image Frames_21
+  rotate: true
+  xy: 618, 4
+  size: 222, 305
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+skin4 atk_Image Frames_03
+  rotate: true
+  xy: 668, 452
+  size: 220, 367
+  orig: 222, 369
+  offset: 1, 1
+  index: -1
+skin4 atk_Image Frames_16
+  rotate: true
+  xy: 311, 457
+  size: 215, 355
+  orig: 217, 357
+  offset: 1, 1
+  index: -1
+
+dh_monkey_54.png
+size: 1896,2033
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3 hurt_Image Frames_1
+  rotate: true
+  xy: 1278, 910
+  size: 225, 307
+  orig: 380, 315
+  offset: 78, 4
+  index: -1
+3 idle2_Image Frames_01
+  rotate: true
+  xy: 1278, 910
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle_Image Frames_01
+  rotate: true
+  xy: 1278, 910
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle2_Image Frames_02
+  rotate: true
+  xy: 1587, 910
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle2_Image Frames_03
+  rotate: true
+  xy: 2, 686
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle2_Image Frames_04
+  rotate: true
+  xy: 311, 686
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle2_Image Frames_05
+  rotate: true
+  xy: 620, 686
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle2_Image Frames_06
+  rotate: true
+  xy: 929, 685
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle2_Image Frames_12
+  rotate: true
+  xy: 1238, 683
+  size: 225, 305
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle2_Image Frames_13
+  rotate: true
+  xy: 1545, 683
+  size: 225, 305
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle2_Image Frames_14
+  rotate: true
+  xy: 2, 459
+  size: 225, 305
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle2_Image Frames_15
+  rotate: true
+  xy: 309, 459
+  size: 225, 305
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle2_Image Frames_16
+  rotate: true
+  xy: 616, 459
+  size: 225, 303
+  orig: 230, 315
+  offset: 3, 6
+  index: -1
+3 idle2_Image Frames_17
+  rotate: true
+  xy: 921, 458
+  size: 225, 303
+  orig: 230, 315
+  offset: 3, 6
+  index: -1
+3 idle2_Image Frames_18
+  rotate: true
+  xy: 1226, 456
+  size: 225, 303
+  orig: 230, 315
+  offset: 3, 6
+  index: -1
+3 idle2_Image Frames_19
+  rotate: true
+  xy: 1531, 456
+  size: 225, 305
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle2_Image Frames_20
+  rotate: true
+  xy: 2, 232
+  size: 225, 305
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle2_Image Frames_28
+  rotate: true
+  xy: 309, 232
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle2_Image Frames_29
+  rotate: true
+  xy: 618, 231
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle2_Image Frames_30
+  rotate: true
+  xy: 927, 229
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle_Image Frames_02
+  rotate: true
+  xy: 1236, 229
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle_Image Frames_03
+  rotate: true
+  xy: 1545, 229
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle_Image Frames_04
+  rotate: true
+  xy: 2, 5
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle_Image Frames_05
+  rotate: true
+  xy: 618, 4
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle_Image Frames_06
+  rotate: true
+  xy: 927, 2
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle_Image Frames_08
+  rotate: true
+  xy: 2, 1809
+  size: 222, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle_Image Frames_09
+  rotate: true
+  xy: 311, 1809
+  size: 222, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle_Image Frames_10
+  rotate: true
+  xy: 620, 1809
+  size: 222, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle_Image Frames_12
+  rotate: true
+  xy: 311, 5
+  size: 225, 305
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle_Image Frames_13
+  rotate: true
+  xy: 1236, 2
+  size: 225, 305
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle_Image Frames_14
+  rotate: true
+  xy: 1543, 2
+  size: 225, 305
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle_Image Frames_22
+  rotate: true
+  xy: 929, 1809
+  size: 222, 305
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle_Image Frames_23
+  rotate: true
+  xy: 1236, 1809
+  size: 222, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle_Image Frames_24
+  rotate: true
+  xy: 1545, 1809
+  size: 222, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle_Image Frames_25
+  rotate: true
+  xy: 2, 1585
+  size: 222, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle_Image Frames_26
+  rotate: true
+  xy: 311, 1585
+  size: 222, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle_Image Frames_27
+  rotate: true
+  xy: 620, 1585
+  size: 222, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle2_Image Frames_09
+  rotate: true
+  xy: 929, 1585
+  size: 222, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle2_Image Frames_10
+  rotate: true
+  xy: 1238, 1585
+  size: 222, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle2_Image Frames_11
+  rotate: true
+  xy: 1547, 1585
+  size: 222, 305
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle2_Image Frames_21
+  rotate: true
+  xy: 2, 1361
+  size: 222, 305
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle2_Image Frames_22
+  rotate: true
+  xy: 309, 1361
+  size: 222, 305
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle2_Image Frames_23
+  rotate: true
+  xy: 616, 1361
+  size: 222, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle2_Image Frames_24
+  rotate: true
+  xy: 925, 1361
+  size: 222, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle2_Image Frames_25
+  rotate: true
+  xy: 1234, 1361
+  size: 222, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle2_Image Frames_26
+  rotate: true
+  xy: 1543, 1361
+  size: 222, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle_Image Frames_09
+  rotate: true
+  xy: 2, 1137
+  size: 222, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle_Image Frames_10
+  rotate: true
+  xy: 311, 1137
+  size: 222, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle_Image Frames_11
+  rotate: true
+  xy: 620, 1137
+  size: 222, 305
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle_Image Frames_21
+  rotate: true
+  xy: 927, 1137
+  size: 222, 305
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle_Image Frames_22
+  rotate: true
+  xy: 1234, 1137
+  size: 222, 305
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle_Image Frames_23
+  rotate: true
+  xy: 1541, 1137
+  size: 222, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle_Image Frames_24
+  rotate: true
+  xy: 2, 913
+  size: 222, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle_Image Frames_25
+  rotate: true
+  xy: 311, 913
+  size: 222, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle_Image Frames_26
+  rotate: true
+  xy: 620, 913
+  size: 222, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+skin4 atk_Image Frames_13
+  rotate: true
+  xy: 929, 912
+  size: 223, 347
+  orig: 225, 349
+  offset: 1, 1
+  index: -1
+
+dh_monkey_55.png
+size: 1856,2045
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3 idle_Image Frames_15
+  rotate: true
+  xy: 2, 1818
+  size: 225, 305
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle_Image Frames_16
+  rotate: true
+  xy: 309, 1818
+  size: 225, 303
+  orig: 230, 315
+  offset: 3, 6
+  index: -1
+3 idle_Image Frames_17
+  rotate: true
+  xy: 614, 1818
+  size: 225, 303
+  orig: 230, 315
+  offset: 3, 6
+  index: -1
+3 idle_Image Frames_18
+  rotate: true
+  xy: 919, 1818
+  size: 225, 303
+  orig: 230, 315
+  offset: 3, 6
+  index: -1
+3 idle_Image Frames_19
+  rotate: true
+  xy: 1224, 1818
+  size: 225, 305
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle_Image Frames_20
+  rotate: true
+  xy: 1531, 1818
+  size: 225, 305
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle_Image Frames_28
+  rotate: true
+  xy: 2, 1591
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle_Image Frames_29
+  rotate: true
+  xy: 311, 1591
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+3 idle_Image Frames_30
+  rotate: true
+  xy: 620, 1591
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 hurt_Image Frames_1
+  rotate: true
+  xy: 929, 1591
+  size: 225, 307
+  orig: 380, 315
+  offset: 78, 4
+  index: -1
+4 idle2_Image Frames_01
+  rotate: true
+  xy: 1238, 1591
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle_Image Frames_01
+  rotate: true
+  xy: 1238, 1591
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle2_Image Frames_02
+  rotate: true
+  xy: 1547, 1591
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle2_Image Frames_03
+  rotate: true
+  xy: 2, 1364
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle2_Image Frames_04
+  rotate: true
+  xy: 311, 1364
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle2_Image Frames_05
+  rotate: true
+  xy: 620, 1364
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle2_Image Frames_06
+  rotate: true
+  xy: 929, 1364
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle2_Image Frames_07
+  rotate: true
+  xy: 1238, 1364
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle2_Image Frames_08
+  rotate: true
+  xy: 1547, 1364
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle2_Image Frames_12
+  rotate: true
+  xy: 2, 1137
+  size: 225, 305
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle2_Image Frames_13
+  rotate: true
+  xy: 309, 1137
+  size: 225, 305
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle2_Image Frames_14
+  rotate: true
+  xy: 616, 1137
+  size: 225, 305
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle2_Image Frames_15
+  rotate: true
+  xy: 923, 1137
+  size: 225, 305
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle2_Image Frames_16
+  rotate: true
+  xy: 1230, 1137
+  size: 225, 303
+  orig: 230, 315
+  offset: 3, 6
+  index: -1
+4 idle2_Image Frames_17
+  rotate: true
+  xy: 1535, 1137
+  size: 225, 303
+  orig: 230, 315
+  offset: 3, 6
+  index: -1
+4 idle2_Image Frames_18
+  rotate: true
+  xy: 2, 910
+  size: 225, 303
+  orig: 230, 315
+  offset: 3, 6
+  index: -1
+4 idle2_Image Frames_19
+  rotate: true
+  xy: 307, 910
+  size: 225, 305
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle2_Image Frames_20
+  rotate: true
+  xy: 614, 910
+  size: 225, 305
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle2_Image Frames_27
+  rotate: true
+  xy: 921, 910
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle2_Image Frames_28
+  rotate: true
+  xy: 1230, 910
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle2_Image Frames_29
+  rotate: true
+  xy: 1539, 910
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle2_Image Frames_30
+  rotate: true
+  xy: 2, 683
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle_Image Frames_02
+  rotate: true
+  xy: 311, 683
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle_Image Frames_03
+  rotate: true
+  xy: 620, 683
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle_Image Frames_04
+  rotate: true
+  xy: 929, 683
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle_Image Frames_05
+  rotate: true
+  xy: 1238, 683
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle_Image Frames_06
+  rotate: true
+  xy: 1547, 683
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle_Image Frames_07
+  rotate: true
+  xy: 2, 456
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle_Image Frames_08
+  rotate: true
+  xy: 311, 456
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle_Image Frames_12
+  rotate: true
+  xy: 620, 456
+  size: 225, 305
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle_Image Frames_13
+  rotate: true
+  xy: 927, 456
+  size: 225, 305
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle_Image Frames_14
+  rotate: true
+  xy: 1234, 456
+  size: 225, 305
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle_Image Frames_15
+  rotate: true
+  xy: 1541, 456
+  size: 225, 305
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle_Image Frames_16
+  rotate: true
+  xy: 2, 229
+  size: 225, 303
+  orig: 230, 315
+  offset: 3, 6
+  index: -1
+4 idle_Image Frames_17
+  rotate: true
+  xy: 307, 229
+  size: 225, 303
+  orig: 230, 315
+  offset: 3, 6
+  index: -1
+4 idle_Image Frames_18
+  rotate: true
+  xy: 612, 229
+  size: 225, 303
+  orig: 230, 315
+  offset: 3, 6
+  index: -1
+4 idle_Image Frames_19
+  rotate: true
+  xy: 917, 229
+  size: 225, 305
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle_Image Frames_20
+  rotate: true
+  xy: 1224, 229
+  size: 225, 305
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle_Image Frames_27
+  rotate: true
+  xy: 1531, 229
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle_Image Frames_28
+  rotate: true
+  xy: 2, 2
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle_Image Frames_29
+  rotate: true
+  xy: 311, 2
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+4 idle_Image Frames_30
+  rotate: true
+  xy: 620, 2
+  size: 225, 307
+  orig: 230, 315
+  offset: 3, 4
+  index: -1
+
+dh_monkey_56.png
+size: 2038,2002
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1 hurt_Image Frames_4
+  rotate: false
+  xy: 2, 1715
+  size: 375, 285
+  orig: 380, 310
+  offset: 3, 12
+  index: -1
+2 hurt_Image Frames_3
+  rotate: false
+  xy: 276, 1051
+  size: 272, 285
+  orig: 380, 315
+  offset: 53, 14
+  index: -1
+2 hurt_Image Frames_4
+  rotate: true
+  xy: 2, 1338
+  size: 375, 285
+  orig: 380, 315
+  offset: 3, 14
+  index: -1
+2 hurt_Image Frames_5
+  rotate: true
+  xy: 2, 739
+  size: 275, 272
+  orig: 380, 315
+  offset: 53, 22
+  index: -1
+3 hurt_Image Frames_3
+  rotate: false
+  xy: 276, 764
+  size: 270, 285
+  orig: 380, 315
+  offset: 56, 14
+  index: -1
+3 hurt_Image Frames_4
+  rotate: false
+  xy: 289, 1358
+  size: 375, 285
+  orig: 380, 315
+  offset: 3, 14
+  index: -1
+3 hurt_Image Frames_5
+  rotate: false
+  xy: 550, 994
+  size: 279, 272
+  orig: 380, 315
+  offset: 51, 22
+  index: -1
+4 hurt_Image Frames_2
+  rotate: false
+  xy: 1789, 749
+  size: 242, 290
+  orig: 380, 315
+  offset: 68, 11
+  index: -1
+4 hurt_Image Frames_3
+  rotate: false
+  xy: 2, 452
+  size: 265, 285
+  orig: 380, 315
+  offset: 58, 14
+  index: -1
+4 hurt_Image Frames_4
+  rotate: true
+  xy: 666, 1268
+  size: 375, 285
+  orig: 380, 315
+  offset: 3, 14
+  index: -1
+4 hurt_Image Frames_5
+  rotate: true
+  xy: 2, 1016
+  size: 320, 272
+  orig: 380, 315
+  offset: 31, 22
+  index: -1
+skin4 atk_Image Frames_01
+  rotate: true
+  xy: 1070, 1222
+  size: 247, 362
+  orig: 249, 364
+  offset: 1, 1
+  index: -1
+skin4 atk_Image Frames_02
+  rotate: false
+  xy: 831, 901
+  size: 237, 365
+  orig: 239, 367
+  offset: 1, 1
+  index: -1
+skin4 atk_Image Frames_12
+  rotate: false
+  xy: 379, 1645
+  size: 337, 355
+  orig: 339, 357
+  offset: 1, 1
+  index: -1
+skin4 atk_Image Frames_18
+  rotate: false
+  xy: 269, 377
+  size: 262, 360
+  orig: 264, 362
+  offset: 1, 1
+  index: -1
+skin4 atk_Image Frames_19
+  rotate: true
+  xy: 718, 1720
+  size: 280, 360
+  orig: 282, 362
+  offset: 1, 1
+  index: -1
+skin4 atk_Image Frames_20
+  rotate: false
+  xy: 548, 630
+  size: 267, 362
+  orig: 269, 364
+  offset: 1, 1
+  index: -1
+skin4 idle_Image Frames_01
+  rotate: false
+  xy: 2, 87
+  size: 247, 363
+  orig: 249, 365
+  offset: 1, 1
+  index: -1
+skin4 idle_Image Frames_02
+  rotate: true
+  xy: 953, 1471
+  size: 247, 363
+  orig: 249, 365
+  offset: 1, 1
+  index: -1
+skin4 idle_Image Frames_03
+  rotate: true
+  xy: 1080, 1753
+  size: 247, 363
+  orig: 249, 365
+  offset: 1, 1
+  index: -1
+skin4 idle_Image Frames_04
+  rotate: true
+  xy: 1318, 1504
+  size: 247, 360
+  orig: 249, 362
+  offset: 1, 1
+  index: -1
+skin4 idle_Image Frames_05
+  rotate: true
+  xy: 1445, 1753
+  size: 247, 360
+  orig: 249, 362
+  offset: 1, 1
+  index: -1
+skin4 idle_Image Frames_06
+  rotate: true
+  xy: 1070, 973
+  size: 247, 360
+  orig: 249, 362
+  offset: 1, 1
+  index: -1
+skin4 idle_Image Frames_07
+  rotate: true
+  xy: 1066, 362
+  size: 247, 358
+  orig: 249, 360
+  offset: 1, 1
+  index: -1
+skin4 idle_Image Frames_08
+  rotate: false
+  xy: 1426, 251
+  size: 247, 358
+  orig: 249, 360
+  offset: 1, 1
+  index: -1
+skin4 idle_Image Frames_09
+  rotate: true
+  xy: 1431, 724
+  size: 247, 355
+  orig: 249, 357
+  offset: 1, 1
+  index: -1
+skin4 idle_Image Frames_10
+  rotate: true
+  xy: 1432, 973
+  size: 247, 355
+  orig: 249, 357
+  offset: 1, 1
+  index: -1
+skin4 idle_Image Frames_11
+  rotate: true
+  xy: 1672, 2
+  size: 247, 353
+  orig: 249, 355
+  offset: 1, 1
+  index: -1
+skin4 idle_Image Frames_12
+  rotate: false
+  xy: 1675, 369
+  size: 247, 353
+  orig: 249, 355
+  offset: 1, 1
+  index: -1
+skin4 idle_Image Frames_21
+  rotate: false
+  xy: 1789, 1041
+  size: 247, 353
+  orig: 249, 355
+  offset: 1, 1
+  index: -1
+skin4 idle_Image Frames_23
+  rotate: false
+  xy: 1680, 1396
+  size: 247, 355
+  orig: 249, 357
+  offset: 1, 1
+  index: -1
+skin4 idle_Image Frames_24
+  rotate: true
+  xy: 1315, 2
+  size: 247, 355
+  orig: 249, 357
+  offset: 1, 1
+  index: -1
+skin4 idle_Image Frames_25
+  rotate: false
+  xy: 1066, 2
+  size: 247, 358
+  orig: 249, 360
+  offset: 1, 1
+  index: -1
+skin4 idle_Image Frames_26
+  rotate: true
+  xy: 613, 41
+  size: 247, 358
+  orig: 249, 360
+  offset: 1, 1
+  index: -1
+skin4 idle_Image Frames_27
+  rotate: false
+  xy: 1182, 611
+  size: 247, 360
+  orig: 249, 362
+  offset: 1, 1
+  index: -1
+skin4 idle_Image Frames_28
+  rotate: false
+  xy: 817, 290
+  size: 247, 360
+  orig: 249, 362
+  offset: 1, 1
+  index: -1
+skin4 idle_Image Frames_29
+  rotate: true
+  xy: 251, 128
+  size: 247, 360
+  orig: 249, 362
+  offset: 1, 1
+  index: -1
+skin4 idle_Image Frames_30
+  rotate: true
+  xy: 817, 652
+  size: 247, 363
+  orig: 249, 365
+  offset: 1, 1
+  index: -1
+
+dh_monkey_57.png
+size: 1342,728
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2 hurt_Image Frames_2
+  rotate: false
+  xy: 1093, 86
+  size: 240, 290
+  orig: 380, 315
+  offset: 71, 11
+  index: -1
+3 hurt_Image Frames_2
+  rotate: true
+  xy: 743, 2
+  size: 232, 290
+  orig: 380, 315
+  offset: 73, 11
+  index: -1
+skin4 idle_Image Frames_13
+  rotate: false
+  xy: 251, 375
+  size: 244, 351
+  orig: 246, 353
+  offset: 1, 1
+  index: -1
+skin4 idle_Image Frames_14
+  rotate: false
+  xy: 251, 22
+  size: 244, 351
+  orig: 246, 353
+  offset: 1, 1
+  index: -1
+skin4 idle_Image Frames_15
+  rotate: false
+  xy: 497, 375
+  size: 244, 351
+  orig: 246, 353
+  offset: 1, 1
+  index: -1
+skin4 idle_Image Frames_16
+  rotate: false
+  xy: 1096, 378
+  size: 244, 348
+  orig: 246, 350
+  offset: 1, 1
+  index: -1
+skin4 idle_Image Frames_17
+  rotate: true
+  xy: 743, 236
+  size: 244, 348
+  orig: 246, 350
+  offset: 1, 1
+  index: -1
+skin4 idle_Image Frames_18
+  rotate: false
+  xy: 497, 22
+  size: 244, 351
+  orig: 246, 353
+  offset: 1, 1
+  index: -1
+skin4 idle_Image Frames_19
+  rotate: true
+  xy: 743, 482
+  size: 244, 351
+  orig: 246, 353
+  offset: 1, 1
+  index: -1
+skin4 idle_Image Frames_20
+  rotate: false
+  xy: 2, 20
+  size: 247, 351
+  orig: 249, 353
+  offset: 1, 1
+  index: -1
+skin4 idle_Image Frames_22
+  rotate: false
+  xy: 2, 373
+  size: 247, 353
+  orig: 249, 355
+  offset: 1, 1
+  index: -1

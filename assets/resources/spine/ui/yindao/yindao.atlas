@@ -1,0 +1,152 @@
+
+yindao.png
+size: 1860,2040
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+da_Image Frames_01
+  rotate: false
+  xy: 931, 56
+  size: 927, 473
+  orig: 933, 718
+  offset: 3, 216
+  index: -1
+da_Image Frames_04
+  rotate: false
+  xy: 931, 531
+  size: 927, 487
+  orig: 933, 718
+  offset: 3, 209
+  index: -1
+da_Image Frames_05
+  rotate: false
+  xy: 2, 491
+  size: 927, 503
+  orig: 933, 718
+  offset: 3, 201
+  index: -1
+da_Image Frames_06
+  rotate: false
+  xy: 2, 996
+  size: 927, 515
+  orig: 933, 718
+  offset: 3, 196
+  index: -1
+da_Image Frames_07
+  rotate: false
+  xy: 2, 1513
+  size: 927, 525
+  orig: 933, 718
+  offset: 3, 191
+  index: -1
+da_Image Frames_08
+  rotate: false
+  xy: 931, 1523
+  size: 927, 515
+  orig: 933, 718
+  offset: 3, 196
+  index: -1
+da_Image Frames_09
+  rotate: false
+  xy: 931, 1020
+  size: 927, 501
+  orig: 933, 718
+  offset: 3, 203
+  index: -1
+da_Image Frames_10
+  rotate: false
+  xy: 2, 2
+  size: 927, 487
+  orig: 933, 718
+  offset: 3, 209
+  index: -1
+
+yindao2.png
+size: 1838,1501
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+da_Image Frames_02
+  rotate: true
+  xy: 477, 572
+  size: 927, 467
+  orig: 933, 718
+  offset: 3, 219
+  index: -1
+da_Image Frames_03
+  rotate: true
+  xy: 2, 572
+  size: 927, 473
+  orig: 933, 718
+  offset: 3, 216
+  index: -1
+jindu_Image Frames_01
+  rotate: true
+  xy: 1529, 361
+  size: 568, 290
+  orig: 570, 292
+  offset: 1, 1
+  index: -1
+jindu_Image Frames_02
+  rotate: false
+  xy: 959, 11
+  size: 568, 286
+  orig: 570, 288
+  offset: 1, 1
+  index: -1
+jindu_Image Frames_03
+  rotate: false
+  xy: 959, 299
+  size: 568, 290
+  orig: 570, 292
+  offset: 1, 1
+  index: -1
+jindu_Image Frames_04
+  rotate: false
+  xy: 959, 891
+  size: 568, 298
+  orig: 570, 300
+  offset: 1, 1
+  index: -1
+jindu_Image Frames_05
+  rotate: false
+  xy: 959, 1191
+  size: 568, 308
+  orig: 570, 310
+  offset: 1, 1
+  index: -1
+jindu_Image Frames_06
+  rotate: true
+  xy: 325, 2
+  size: 568, 315
+  orig: 570, 317
+  offset: 1, 1
+  index: -1
+jindu_Image Frames_07
+  rotate: true
+  xy: 2, 2
+  size: 568, 321
+  orig: 570, 323
+  offset: 1, 1
+  index: -1
+jindu_Image Frames_08
+  rotate: true
+  xy: 642, 2
+  size: 568, 315
+  orig: 570, 317
+  offset: 1, 1
+  index: -1
+jindu_Image Frames_09
+  rotate: true
+  xy: 1529, 931
+  size: 568, 307
+  orig: 570, 309
+  offset: 1, 1
+  index: -1
+jindu_Image Frames_10
+  rotate: false
+  xy: 946, 591
+  size: 568, 298
+  orig: 570, 300
+  offset: 1, 1
+  index: -1

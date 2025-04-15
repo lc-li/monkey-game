@@ -1,0 +1,272 @@
+
+jls.png
+size: 1742,1302
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bguang
+  rotate: false
+  xy: 1303, 494
+  size: 214, 317
+  orig: 214, 317
+  offset: 0, 0
+  index: -1
+guangs
+  rotate: false
+  xy: 913, 702
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+libao
+  rotate: false
+  xy: 975, 704
+  size: 80, 58
+  orig: 80, 58
+  offset: 0, 0
+  index: -1
+san
+  rotate: true
+  xy: 587, 2
+  size: 190, 235
+  orig: 190, 235
+  offset: 0, 0
+  index: -1
+texiao_00001
+  rotate: false
+  xy: 1519, 703
+  size: 108, 108
+  orig: 136, 136
+  offset: 14, 14
+  index: -1
+texiao_00002
+  rotate: false
+  xy: 1519, 593
+  size: 108, 108
+  orig: 136, 136
+  offset: 14, 14
+  index: -1
+texiao_00003
+  rotate: false
+  xy: 1629, 591
+  size: 106, 106
+  orig: 134, 134
+  offset: 14, 14
+  index: -1
+texiao_00004
+  rotate: false
+  xy: 954, 36
+  size: 112, 112
+  orig: 136, 136
+  offset: 12, 12
+  index: -1
+texiao_00005
+  rotate: false
+  xy: 955, 265
+  size: 112, 113
+  orig: 134, 134
+  offset: 11, 10
+  index: -1
+texiao_00006
+  rotate: false
+  xy: 1622, 155
+  size: 110, 111
+  orig: 136, 136
+  offset: 13, 12
+  index: -1
+texiao_00007
+  rotate: false
+  xy: 1515, 380
+  size: 112, 112
+  orig: 136, 136
+  offset: 12, 12
+  index: -1
+texiao_00008
+  rotate: false
+  xy: 1622, 42
+  size: 108, 111
+  orig: 136, 136
+  offset: 14, 11
+  index: -1
+texiao_00009
+  rotate: false
+  xy: 955, 150
+  size: 112, 113
+  orig: 136, 136
+  offset: 12, 11
+  index: -1
+texiao_00010
+  rotate: true
+  xy: 1515, 268
+  size: 110, 114
+  orig: 137, 137
+  offset: 14, 9
+  index: -1
+texiao_00011
+  rotate: true
+  xy: 461, 441
+  size: 113, 123
+  orig: 137, 143
+  offset: 11, 9
+  index: -1
+texiao_00012
+  rotate: true
+  xy: 311, 436
+  size: 118, 148
+  orig: 140, 167
+  offset: 12, 7
+  index: -1
+texiao_00013
+  rotate: false
+  xy: 824, 6
+  size: 128, 186
+  orig: 148, 205
+  offset: 11, 8
+  index: -1
+texiao_00014
+  rotate: true
+  xy: 302, 21
+  size: 145, 246
+  orig: 165, 268
+  offset: 11, 10
+  index: -1
+texiao_00015
+  rotate: true
+  xy: 2, 6
+  size: 160, 298
+  orig: 179, 320
+  offset: 11, 13
+  index: -1
+texiao_00016
+  rotate: true
+  xy: 587, 194
+  size: 184, 366
+  orig: 205, 386
+  offset: 11, 10
+  index: -1
+texiao_00017
+  rotate: true
+  xy: 1266, 813
+  size: 199, 430
+  orig: 219, 450
+  offset: 10, 11
+  index: -1
+texiao_00018
+  rotate: false
+  xy: 1074, 256
+  size: 227, 506
+  orig: 249, 525
+  offset: 10, 11
+  index: -1
+texiao_00019
+  rotate: true
+  xy: 1069, 22
+  size: 232, 551
+  orig: 261, 574
+  offset: 10, 12
+  index: -1
+texiao_00020
+  rotate: true
+  xy: 2, 168
+  size: 264, 583
+  orig: 293, 614
+  offset: 9, 23
+  index: -1
+texiao_00021
+  rotate: true
+  xy: 913, 1014
+  size: 286, 603
+  orig: 306, 633
+  offset: 10, 19
+  index: -1
+texiao_00022
+  rotate: false
+  xy: 594, 686
+  size: 317, 614
+  orig: 333, 643
+  offset: 7, 20
+  index: -1
+texiao_00023
+  rotate: true
+  xy: 2, 978
+  size: 322, 590
+  orig: 344, 616
+  offset: 7, 18
+  index: -1
+texiao_00024
+  rotate: false
+  xy: 2, 434
+  size: 307, 542
+  orig: 341, 565
+  offset: 8, 12
+  index: -1
+texiao_00025
+  rotate: true
+  xy: 587, 380
+  size: 304, 485
+  orig: 334, 508
+  offset: 10, 11
+  index: -1
+texiao_00026
+  rotate: false
+  xy: 311, 556
+  size: 274, 420
+  orig: 308, 455
+  offset: 13, 21
+  index: -1
+texiao_00027
+  rotate: true
+  xy: 913, 764
+  size: 248, 351
+  orig: 282, 367
+  offset: 11, 3
+  index: -1
+texiao_00028
+  rotate: false
+  xy: 1518, 1015
+  size: 222, 285
+  orig: 251, 315
+  offset: 12, 17
+  index: -1
+texiao_00029
+  rotate: true
+  xy: 1303, 293
+  size: 199, 210
+  orig: 228, 243
+  offset: 12, 19
+  index: -1
+texiao_00030
+  rotate: false
+  xy: 1629, 699
+  size: 107, 112
+  orig: 126, 130
+  offset: 9, 10
+  index: -1
+texiao_00031
+  rotate: false
+  xy: 1629, 478
+  size: 105, 111
+  orig: 126, 131
+  offset: 9, 12
+  index: -1
+texiao_00032
+  rotate: true
+  xy: 1519, 496
+  size: 95, 108
+  orig: 116, 129
+  offset: 10, 12
+  index: -1
+texiao_00033
+  rotate: true
+  xy: 1631, 304
+  size: 84, 105
+  orig: 102, 122
+  offset: 9, 9
+  index: -1
+texiao_00034
+  rotate: true
+  xy: 1629, 390
+  size: 86, 106
+  orig: 105, 126
+  offset: 10, 11
+  index: -1

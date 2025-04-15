@@ -1,0 +1,98 @@
+{
+"skeleton": {
+	"hash": "Ce5Y0vgrqGJKecjA9OeZxOXhrrA",
+	"spine": "3.8.99",
+	"x": -211.65,
+	"y": -0.86,
+	"width": 269.6,
+	"height": 292.8,
+	"images": "./新建文件夹/images/",
+	"audio": "C:/Users/HippoJoy/Desktop/猴子打狗/images2/heihou/新建文件夹"
+},
+"bones": [
+	{ "name": "root", "scaleX": 0.8, "scaleY": 0.8 },
+	{ "name": "idle", "parent": "root", "length": 70.7, "rotation": -0.57, "x": 8.6, "y": 105.3 }
+],
+"slots": [
+	{ "name": "idle", "bone": "idle", "attachment": "idle_Image Frames_01" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"idle": {
+				"idle_Image Frames_01": { "x": -105.43, "y": 75.58, "rotation": 0.57, "width": 337, "height": 366 },
+				"idle_Image Frames_02": { "x": -105.43, "y": 75.58, "rotation": 0.57, "width": 337, "height": 366 },
+				"idle_Image Frames_03": { "x": -105.43, "y": 75.58, "rotation": 0.57, "width": 337, "height": 366 },
+				"idle_Image Frames_04": { "x": -105.42, "y": 74.58, "rotation": 0.57, "width": 337, "height": 364 },
+				"idle_Image Frames_05": { "x": -105.42, "y": 74.58, "rotation": 0.57, "width": 337, "height": 364 },
+				"idle_Image Frames_06": { "x": -105.42, "y": 74.58, "rotation": 0.57, "width": 337, "height": 364 },
+				"idle_Image Frames_07": { "x": -105.4, "y": 73.08, "rotation": 0.57, "width": 337, "height": 361 },
+				"idle_Image Frames_08": { "x": -105.4, "y": 73.08, "rotation": 0.57, "width": 337, "height": 361 },
+				"idle_Image Frames_09": { "x": -105.39, "y": 72.08, "rotation": 0.57, "width": 337, "height": 359 },
+				"idle_Image Frames_10": { "x": -105.39, "y": 72.08, "rotation": 0.57, "width": 337, "height": 359 },
+				"idle_Image Frames_11": { "x": -103.88, "y": 70.59, "rotation": 0.57, "width": 334, "height": 356 },
+				"idle_Image Frames_12": { "x": -103.88, "y": 70.59, "rotation": 0.57, "width": 334, "height": 356 },
+				"idle_Image Frames_13": { "x": -103.87, "y": 69.59, "rotation": 0.57, "width": 334, "height": 354 },
+				"idle_Image Frames_14": { "x": -103.87, "y": 69.59, "rotation": 0.57, "width": 334, "height": 354 },
+				"idle_Image Frames_15": { "x": -103.87, "y": 69.59, "rotation": 0.57, "width": 334, "height": 354 },
+				"idle_Image Frames_16": { "x": -103.85, "y": 68.09, "rotation": 0.57, "width": 334, "height": 351 },
+				"idle_Image Frames_17": { "x": -103.85, "y": 68.09, "rotation": 0.57, "width": 334, "height": 351 },
+				"idle_Image Frames_18": { "x": -103.87, "y": 69.59, "rotation": 0.57, "width": 334, "height": 354 },
+				"idle_Image Frames_19": { "x": -103.87, "y": 69.59, "rotation": 0.57, "width": 334, "height": 354 },
+				"idle_Image Frames_20": { "x": -103.87, "y": 69.59, "rotation": 0.57, "width": 334, "height": 354 },
+				"idle_Image Frames_21": { "x": -103.88, "y": 70.59, "rotation": 0.57, "width": 334, "height": 356 },
+				"idle_Image Frames_22": { "x": -105.38, "y": 70.58, "rotation": 0.57, "width": 337, "height": 356 },
+				"idle_Image Frames_23": { "x": -105.39, "y": 72.08, "rotation": 0.57, "width": 337, "height": 359 },
+				"idle_Image Frames_24": { "x": -105.39, "y": 72.08, "rotation": 0.57, "width": 337, "height": 359 },
+				"idle_Image Frames_25": { "x": -105.4, "y": 73.08, "rotation": 0.57, "width": 337, "height": 361 },
+				"idle_Image Frames_26": { "x": -105.4, "y": 73.08, "rotation": 0.57, "width": 337, "height": 361 },
+				"idle_Image Frames_27": { "x": -105.42, "y": 74.58, "rotation": 0.57, "width": 337, "height": 364 },
+				"idle_Image Frames_28": { "x": -105.42, "y": 74.58, "rotation": 0.57, "width": 337, "height": 364 },
+				"idle_Image Frames_29": { "x": -105.42, "y": 74.58, "rotation": 0.57, "width": 337, "height": 364 },
+				"idle_Image Frames_30": { "x": -105.43, "y": 75.58, "rotation": 0.57, "width": 337, "height": 366 }
+			}
+		}
+	}
+],
+"animations": {
+	"loop_1": {
+		"slots": {
+			"idle": {
+				"attachment": [
+					{ "time": 0.0333, "name": "idle_Image Frames_02" },
+					{ "time": 0.0667, "name": "idle_Image Frames_03" },
+					{ "time": 0.1, "name": "idle_Image Frames_04" },
+					{ "time": 0.1333, "name": "idle_Image Frames_05" },
+					{ "time": 0.1667, "name": "idle_Image Frames_06" },
+					{ "time": 0.2, "name": "idle_Image Frames_07" },
+					{ "time": 0.2333, "name": "idle_Image Frames_08" },
+					{ "time": 0.2667, "name": "idle_Image Frames_09" },
+					{ "time": 0.3, "name": "idle_Image Frames_10" },
+					{ "time": 0.3333, "name": "idle_Image Frames_11" },
+					{ "time": 0.3667, "name": "idle_Image Frames_12" },
+					{ "time": 0.4, "name": "idle_Image Frames_13" },
+					{ "time": 0.4333, "name": "idle_Image Frames_14" },
+					{ "time": 0.4667, "name": "idle_Image Frames_15" },
+					{ "time": 0.5, "name": "idle_Image Frames_16" },
+					{ "time": 0.5333, "name": "idle_Image Frames_17" },
+					{ "time": 0.5667, "name": "idle_Image Frames_18" },
+					{ "time": 0.6, "name": "idle_Image Frames_19" },
+					{ "time": 0.6333, "name": "idle_Image Frames_20" },
+					{ "time": 0.6667, "name": "idle_Image Frames_21" },
+					{ "time": 0.7, "name": "idle_Image Frames_22" },
+					{ "time": 0.7333, "name": "idle_Image Frames_23" },
+					{ "time": 0.7667, "name": "idle_Image Frames_24" },
+					{ "time": 0.8, "name": "idle_Image Frames_25" },
+					{ "time": 0.8333, "name": "idle_Image Frames_26" },
+					{ "time": 0.8667, "name": "idle_Image Frames_27" },
+					{ "time": 0.9, "name": "idle_Image Frames_28" },
+					{ "time": 0.9333, "name": "idle_Image Frames_29" },
+					{ "time": 0.9667, "name": "idle_Image Frames_30" },
+					{ "time": 1, "name": "idle_Image Frames_01" }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,83 @@
+
+kongtou.png
+size: 964,464
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caidai1
+  rotate: false
+  xy: 802, 2
+  size: 76, 156
+  orig: 76, 156
+  offset: 0, 0
+  index: -1
+caidai2
+  rotate: false
+  xy: 880, 12
+  size: 82, 148
+  orig: 82, 148
+  offset: 0, 0
+  index: -1
+gaizi
+  rotate: true
+  xy: 628, 150
+  size: 202, 95
+  orig: 204, 97
+  offset: 1, 1
+  index: -1
+guang
+  rotate: false
+  xy: 2, 12
+  size: 450, 450
+  orig: 456, 456
+  offset: 0, 6
+  index: -1
+hua
+  rotate: true
+  xy: 876, 162
+  size: 190, 86
+  orig: 190, 86
+  offset: 0, 0
+  index: -1
+jinbi1
+  rotate: false
+  xy: 628, 56
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+jinbi2
+  rotate: true
+  xy: 722, 60
+  size: 88, 78
+  orig: 88, 78
+  offset: 0, 0
+  index: -1
+jinbi3
+  rotate: false
+  xy: 628, 354
+  size: 328, 108
+  orig: 330, 110
+  offset: 1, 1
+  index: -1
+lihe
+  rotate: true
+  xy: 725, 160
+  size: 192, 149
+  orig: 198, 182
+  offset: 6, 0
+  index: -1
+quan
+  rotate: true
+  xy: 454, 24
+  size: 438, 172
+  orig: 440, 174
+  offset: 1, 1
+  index: -1
+xingxing
+  rotate: false
+  xy: 628, 12
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1

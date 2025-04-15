@@ -1,0 +1,104 @@
+
+beijing.png
+size: 1856,1448
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj
+  rotate: true
+  xy: 2, 2
+  size: 720, 1601
+  orig: 722, 1603
+  offset: 1, 1
+  index: -1
+fangzi
+  rotate: false
+  xy: 1606, 575
+  size: 239, 255
+  orig: 241, 257
+  offset: 1, 1
+  index: -1
+huojian
+  rotate: true
+  xy: 1605, 436
+  size: 137, 190
+  orig: 139, 192
+  offset: 1, 1
+  index: -1
+jinbi-01
+  rotate: false
+  xy: 1757, 1134
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+qi
+  rotate: true
+  xy: 1605, 331
+  size: 103, 190
+  orig: 103, 190
+  offset: 0, 0
+  index: -1
+qipao
+  rotate: true
+  xy: 1757, 1059
+  size: 65, 80
+  orig: 65, 80
+  offset: 0, 0
+  index: -1
+xiaolian
+  rotate: false
+  xy: 1757, 1343
+  size: 87, 103
+  orig: 91, 111
+  offset: 4, 2
+  index: -1
+xing1
+  rotate: true
+  xy: 1807, 1147
+  size: 65, 43
+  orig: 67, 45
+  offset: 1, 1
+  index: -1
+xing2
+  rotate: false
+  xy: 1794, 1126
+  size: 19, 19
+  orig: 21, 21
+  offset: 1, 1
+  index: -1
+xing3
+  rotate: false
+  xy: 1846, 1439
+  size: 8, 7
+  orig: 10, 9
+  offset: 1, 1
+  index: -1
+xing6
+  rotate: true
+  xy: 1807, 1214
+  size: 127, 46
+  orig: 129, 48
+  offset: 1, 1
+  index: -1
+xing7
+  rotate: true
+  xy: 1757, 1171
+  size: 170, 48
+  orig: 172, 50
+  offset: 1, 1
+  index: -1
+xing8
+  rotate: true
+  xy: 1606, 832
+  size: 614, 149
+  orig: 616, 151
+  offset: 1, 1
+  index: -1
+zz
+  rotate: true
+  xy: 2, 724
+  size: 722, 1602
+  orig: 722, 1602
+  offset: 0, 0
+  index: -1

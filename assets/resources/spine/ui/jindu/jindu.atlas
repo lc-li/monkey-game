@@ -1,0 +1,83 @@
+
+jindu.png
+size: 583,936
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 536
+  size: 578, 86
+  orig: 600, 388
+  offset: 16, 144
+  index: -1
+10
+  rotate: false
+  xy: 2, 272
+  size: 576, 86
+  orig: 600, 388
+  offset: 16, 144
+  index: -1
+2
+  rotate: false
+  xy: 2, 798
+  size: 579, 84
+  orig: 600, 388
+  offset: 16, 146
+  index: -1
+3
+  rotate: false
+  xy: 2, 448
+  size: 579, 86
+  orig: 600, 388
+  offset: 16, 145
+  index: -1
+4
+  rotate: false
+  xy: 2, 183
+  size: 578, 87
+  orig: 600, 388
+  offset: 16, 144
+  index: -1
+5
+  rotate: false
+  xy: 2, 2
+  size: 576, 89
+  orig: 600, 388
+  offset: 17, 144
+  index: -1
+6
+  rotate: false
+  xy: 2, 360
+  size: 576, 86
+  orig: 600, 388
+  offset: 18, 144
+  index: -1
+7
+  rotate: false
+  xy: 2, 93
+  size: 572, 88
+  orig: 600, 388
+  offset: 21, 144
+  index: -1
+8
+  rotate: false
+  xy: 2, 711
+  size: 571, 85
+  orig: 600, 388
+  offset: 21, 145
+  index: -1
+9
+  rotate: false
+  xy: 2, 624
+  size: 576, 85
+  orig: 600, 388
+  offset: 16, 145
+  index: -1
+hong
+  rotate: false
+  xy: 2, 884
+  size: 552, 50
+  orig: 554, 52
+  offset: 1, 1
+  index: -1

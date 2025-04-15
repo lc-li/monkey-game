@@ -1,0 +1,433 @@
+
+lixian-zaixian.png
+size: 2012,1953
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 289, 1004
+  size: 13, 13
+  orig: 15, 15
+  offset: 1, 1
+  index: -1
+1 hurt_Image Frames_1
+  rotate: true
+  xy: 236, 25
+  size: 215, 305
+  orig: 380, 310
+  offset: 83, 2
+  index: -1
+1 hurt_Image Frames_2
+  rotate: false
+  xy: 560, 894
+  size: 227, 287
+  orig: 380, 310
+  offset: 76, 12
+  index: -1
+1 hurt_Image Frames_3
+  rotate: false
+  xy: 503, 342
+  size: 263, 283
+  orig: 380, 310
+  offset: 58, 14
+  index: -1
+1 hurt_Image Frames_4
+  rotate: true
+  xy: 2, 642
+  size: 375, 285
+  orig: 380, 310
+  offset: 3, 12
+  index: -1
+1 hurt_Image Frames_5
+  rotate: false
+  xy: 1398, 269
+  size: 270, 270
+  orig: 380, 310
+  offset: 56, 19
+  index: -1
+1 hurt_Image Frames_6
+  rotate: false
+  xy: 537, 627
+  size: 245, 265
+  orig: 380, 310
+  offset: 68, 22
+  index: -1
+1 hurt_Image Frames_7
+  rotate: false
+  xy: 1727, 800
+  size: 225, 275
+  orig: 380, 310
+  offset: 78, 17
+  index: -1
+1 hurt_Image Frames_8
+  rotate: true
+  xy: 1672, 66
+  size: 215, 285
+  orig: 380, 310
+  offset: 83, 12
+  index: -1
+1 hurt_Image Frames_9
+  rotate: true
+  xy: 1378, 57
+  size: 210, 292
+  orig: 380, 310
+  offset: 86, 10
+  index: -1
+1 idle_Image Frames_01
+  rotate: true
+  xy: 784, 654
+  size: 215, 305
+  orig: 220, 310
+  offset: 3, 2
+  index: -1
+1 idle_Image Frames_02
+  rotate: true
+  xy: 1194, 846
+  size: 215, 305
+  orig: 220, 310
+  offset: 3, 2
+  index: -1
+1 idle_Image Frames_03
+  rotate: false
+  xy: 543, 35
+  size: 215, 305
+  orig: 220, 310
+  offset: 3, 2
+  index: -1
+1 idle_Image Frames_04
+  rotate: true
+  xy: 1091, 629
+  size: 215, 305
+  orig: 220, 310
+  offset: 3, 2
+  index: -1
+1 idle_Image Frames_05
+  rotate: true
+  xy: 784, 437
+  size: 215, 305
+  orig: 220, 310
+  offset: 3, 2
+  index: -1
+1 idle_Image Frames_06
+  rotate: true
+  xy: 1091, 412
+  size: 215, 305
+  orig: 220, 310
+  offset: 3, 2
+  index: -1
+1 idle_Image Frames_07
+  rotate: false
+  xy: 1398, 541
+  size: 213, 303
+  orig: 220, 310
+  offset: 3, 4
+  index: -1
+1 idle_Image Frames_08
+  rotate: true
+  xy: 768, 222
+  size: 213, 303
+  orig: 220, 310
+  offset: 3, 4
+  index: -1
+1 idle_Image Frames_09
+  rotate: true
+  xy: 760, 7
+  size: 213, 303
+  orig: 220, 310
+  offset: 3, 4
+  index: -1
+1 idle_Image Frames_10
+  rotate: true
+  xy: 1073, 197
+  size: 213, 303
+  orig: 220, 310
+  offset: 3, 4
+  index: -1
+1 idle_Image Frames_11
+  rotate: true
+  xy: 1613, 585
+  size: 213, 303
+  orig: 220, 310
+  offset: 3, 4
+  index: -1
+1 idle_Image Frames_12
+  rotate: false
+  xy: 1670, 283
+  size: 215, 300
+  orig: 220, 310
+  offset: 3, 4
+  index: -1
+2
+  rotate: true
+  xy: 2004, 1704
+  size: 10, 5
+  orig: 12, 7
+  offset: 1, 1
+  index: -1
+3
+  rotate: true
+  xy: 1617, 1469
+  size: 1, 2
+  orig: 3, 4
+  offset: 1, 1
+  index: -1
+4
+  rotate: false
+  xy: 266, 635
+  size: 16, 5
+  orig: 18, 7
+  offset: 1, 1
+  index: -1
+5
+  rotate: false
+  xy: 1073, 417
+  size: 16, 18
+  orig: 18, 20
+  offset: 1, 1
+  index: -1
+6
+  rotate: false
+  xy: 1605, 1059
+  size: 2, 2
+  orig: 4, 4
+  offset: 1, 1
+  index: -1
+7
+  rotate: false
+  xy: 795, 1533
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+baoxiang
+  rotate: false
+  xy: 2, 50
+  size: 232, 200
+  orig: 234, 202
+  offset: 1, 1
+  index: -1
+beij
+  rotate: true
+  xy: 1609, 1019
+  size: 448, 116
+  orig: 450, 118
+  offset: 1, 1
+  index: -1
+caidai1
+  rotate: true
+  xy: 768, 615
+  size: 10, 14
+  orig: 12, 16
+  offset: 1, 1
+  index: -1
+caidai2
+  rotate: false
+  xy: 1617, 1472
+  size: 10, 10
+  orig: 12, 12
+  offset: 1, 1
+  index: -1
+caidai3
+  rotate: false
+  xy: 1225, 1688
+  size: 8, 14
+  orig: 10, 16
+  offset: 1, 1
+  index: -1
+caidai4
+  rotate: false
+  xy: 1202, 1469
+  size: 8, 8
+  orig: 10, 10
+  offset: 1, 1
+  index: -1
+guang
+  rotate: false
+  xy: 2, 1401
+  size: 550, 550
+  orig: 576, 576
+  offset: 13, 13
+  index: -1
+jinbi1
+  rotate: false
+  xy: 1501, 1009
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+jinbi2
+  rotate: false
+  xy: 1930, 1430
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+jinbi3
+  rotate: false
+  xy: 1553, 1013
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+jinbi4
+  rotate: false
+  xy: 54, 2
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+jinbi5
+  rotate: false
+  xy: 96, 2
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
+jinbi6
+  rotate: false
+  xy: 2, 2
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+skin1 atk_Image Frames_01
+  rotate: true
+  xy: 1225, 1704
+  size: 247, 390
+  orig: 249, 392
+  offset: 1, 1
+  index: -1
+skin1 atk_Image Frames_02
+  rotate: true
+  xy: 1617, 1716
+  size: 235, 393
+  orig: 237, 395
+  offset: 1, 1
+  index: -1
+skin1 atk_Image Frames_03
+  rotate: false
+  xy: 341, 1004
+  size: 217, 395
+  orig: 219, 397
+  offset: 1, 1
+  index: -1
+skin1 atk_Image Frames_04
+  rotate: true
+  xy: 833, 1479
+  size: 205, 400
+  orig: 207, 402
+  offset: 1, 1
+  index: -1
+skin1 atk_Image Frames_05
+  rotate: true
+  xy: 789, 871
+  size: 200, 403
+  orig: 202, 405
+  offset: 1, 1
+  index: -1
+skin1 atk_Image Frames_06
+  rotate: true
+  xy: 795, 1276
+  size: 201, 405
+  orig: 203, 407
+  offset: 1, 1
+  index: -1
+skin1 atk_Image Frames_07
+  rotate: true
+  xy: 1202, 1266
+  size: 201, 405
+  orig: 203, 407
+  offset: 1, 1
+  index: -1
+skin1 atk_Image Frames_08
+  rotate: true
+  xy: 795, 1073
+  size: 201, 405
+  orig: 203, 407
+  offset: 1, 1
+  index: -1
+skin1 atk_Image Frames_09
+  rotate: true
+  xy: 1202, 1063
+  size: 201, 405
+  orig: 203, 407
+  offset: 1, 1
+  index: -1
+skin1 atk_Image Frames_10
+  rotate: false
+  xy: 1727, 1077
+  size: 201, 405
+  orig: 203, 407
+  offset: 1, 1
+  index: -1
+skin1 atk_Image Frames_11
+  rotate: false
+  xy: 1727, 1077
+  size: 201, 405
+  orig: 203, 407
+  offset: 1, 1
+  index: -1
+skin1 atk_Image Frames_12
+  rotate: false
+  xy: 2, 1019
+  size: 337, 380
+  orig: 339, 382
+  offset: 1, 1
+  index: -1
+skin1 atk_Image Frames_13
+  rotate: false
+  xy: 289, 627
+  size: 246, 375
+  orig: 248, 377
+  offset: 1, 1
+  index: -1
+skin1 atk_Image Frames_14
+  rotate: false
+  xy: 560, 1183
+  size: 233, 378
+  orig: 235, 380
+  offset: 1, 1
+  index: -1
+skin1 atk_Image Frames_15
+  rotate: true
+  xy: 1235, 1469
+  size: 233, 380
+  orig: 235, 382
+  offset: 1, 1
+  index: -1
+skin1 atk_Image Frames_16
+  rotate: false
+  xy: 266, 242
+  size: 235, 383
+  orig: 237, 385
+  offset: 1, 1
+  index: -1
+skin1 atk_Image Frames_17
+  rotate: true
+  xy: 1617, 1484
+  size: 230, 385
+  orig: 232, 387
+  offset: 1, 1
+  index: -1
+skin1 atk_Image Frames_18
+  rotate: false
+  xy: 2, 252
+  size: 262, 388
+  orig: 264, 390
+  offset: 1, 1
+  index: -1
+skin1 atk_Image Frames_19
+  rotate: false
+  xy: 554, 1563
+  size: 277, 388
+  orig: 279, 390
+  offset: 1, 1
+  index: -1
+skin1 atk_Image Frames_20
+  rotate: true
+  xy: 833, 1686
+  size: 265, 390
+  orig: 267, 392
+  offset: 1, 1
+  index: -1
