@@ -11,7 +11,7 @@ jobs:
       # 改用官方安装脚本（避免npm冲突）
       - name: Install Cocos Creator
         run: |
-            wget https://cocos2d-x.org/filedown/CocosCreator_v2.4.2_linux.run
+            wget --secure-protocol=TLSv1_2 --no-check-certificate https://cocos2d-x.org/filedown/CocosCreator_v2.4.2_linux.run
             chmod +x CocosCreator_v2.4.2_linux.run
             ./CocosCreator_v2.4.2_linux.run --mode unattended --install-dir ./creator
 
