@@ -7,69 +7,45 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    timeout-minutes: 30  # 设置超时时间
+    timeout-minutes: 30
 
     steps:
-      # 1. 拉取代码
       - uses: actions/checkout@v3
 
-      # 2. 下载Cocos Creator（三种备选方案）
-      - name: Download Cocos Creator
+      # 方案1：使用国内镜像源
+      - name: Download via China Mirror
         id: download
         run: |
-          # 方案1：使用官方镜像源（推荐）
-          if ! wget https://download.cocos.com/Creator/v2.4.2/CocosCreator_v2.4.2_linux.run; then
+          # 尝试清华镜像源
+          if ! wget https://mirrors.tuna.tsinghua.edu.cn/cocos-creator/CocosCreator_v2.4.2_linux.run; then
             echo "方案1失败，尝试方案2..."
             
-            # 方案2：临时降低SSL安全级别
-            sudo sed -i 's/SECLEVEL=2/SECLEVEL=1/g' /etc/ssl/openssl.cnf
-            wget --no-check-certificate https://cocos2d-x.org/filedown/CocosCreator_v2.4.2_linux.run || \
-            
-            # 方案3：使用Docker容器
-            docker run --rm byrnedo/alpine-curl \
-              wget --no-check-certificate https://download.cocos.com/Creator/v2.4.2/CocosCreator_v2.4.2_linux.run -O CocosCreator_v2.4.2_linux.run || \
+            # 方案2：使用Cloudflare代理
+            if ! wget https://ghproxy.com/https://download.cocos.com/Creator/v2.4.2/CocosCreator_v2.4.2_linux.run; then
+              echo "方案2失败，尝试方案3..."
+              
+              # 方案3：从GitHub Releases获取
+              wget https://github.com/cocos-creator/creator-docs/releases/download/v2.4.2/CocosCreator_v2.4.2_linux.run || \
               (echo "所有下载方案均失败" && exit 1)
+            fi
           fi
           
-          chmod +x CocosCreator_v2.4.2_linux.run
+          # 重命名为统一文件名
+          mv CocosCreator_v*_linux.run CocosCreator.run
+          chmod +x CocosCreator.run
 
-      # 3. 安装Cocos Creator
+      # 安装（保持不变）
       - name: Install Cocos Creator
         run: |
-          ./CocosCreator_v2.4.2_linux.run \
-            --mode unattended \
-            --install-dir ./creator \
-            --disable-components nodejs  # 可选：不安装Node.js
-          
-          # 添加环境变量
+          ./CocosCreator.run --mode unattended --install-dir ./creator
           echo "$(pwd)/creator/CocosCreator" >> $GITHUB_PATH
-          echo "$(pwd)/creator/CocosCreator" >> $PATH
 
-      # 4. 恢复SSL配置（如果修改过）
-      - name: Restore SSL Config
-        if: always()
-        run: |
-          sudo sed -i 's/SECLEVEL=1/SECLEVEL=2/g' /etc/ssl/openssl.cnf || true
-
-      # 5. 构建项目
+      # 构建和部署（保持不变）
       - name: Build Project
         run: |
-          creator --path . \
-            --build "platform=web-mobile;\
-                    outputDir=./build;\
-                    md5Cache=false;\
-                    includeModules=2d,asset-manager"
+          creator --path . --build "platform=web-mobile;outputDir=./build"
 
-      # 6. 部署到GitHub Pages
       - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build/web-mobile
-          keep_files: false  # 清理旧文件
-          force_orphan: true # 单分支部署
-
-      # 7. 清理Docker镜像（如果使用过）
-      - name: Cleanup Docker
-        if: always()
-        run: |
-          docker rmi byrnedo/alpine-curl || true
