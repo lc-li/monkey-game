@@ -8,12 +8,12 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      # 改用官方安装脚本（避免npm冲突）
-      - name: Install Cocos Creator
+        # 使用定制化 Docker 容器（包含旧版 OpenSSL）
+      - name: Download via Docker
         run: |
-            wget --secure-protocol=TLSv1_2 --no-check-certificate https://cocos2d-x.org/filedown/CocosCreator_v2.4.2_linux.run
-            chmod +x CocosCreator_v2.4.2_linux.run
-            ./CocosCreator_v2.4.2_linux.run --mode unattended --install-dir ./creator
+            docker run --rm alpine/wget --no-check-certificate https://cocos2d-x.org/filedown/CocosCreator_v2.4.2_linux.run -O CocosCreator.run
+            chmod +x CocosCreator.run
+            ./CocosCreator.run --mode unattended --install-dir ./creator
 
       - name: Setup Env
         run: |
