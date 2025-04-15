@@ -7,9 +7,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - run: |
+
+      - name: Setup Cocos Creator
+        run: |
+          npm install -g cocos-creator
+          creator build --platform web-mobile
+
+      - name: Move build files to root directory
+        run: |
           mv build/web-mobile/* ./          # 移动构建文件到根目录
           rm -rf build                      # 移除原构建目录
+
       - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
