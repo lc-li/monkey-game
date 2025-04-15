@@ -19,7 +19,8 @@ export default class GameGlobal {
      */
     static PUBLISH_CHANNEL = 0;
     static HTTP_URL = 'http://localhost:1380/';//默认地址
-    static BASE_URL = 'https://test.memepet.io/';//
+    // static BASE_URL = 'https://test.memepet.io/';//
+    static BASE_URL = 'https://lc-li.github.io/monkey-game/';
 
     private static _instance = new GameGlobal();
     static get instance() {
