@@ -12,7 +12,7 @@ jobs:
       - name: Download via Docker
         run: |
           docker run --rm byrnedo/alpine-curl \
-            sh -c "wget --no-check-certificate https://cocos2d-x.org/filedown/CocosCreator_v2.4.2_linux.run -O CocosCreator.run"
+          sh -c "wget --no-check-certificate https://cocos2d-x.org/filedown/CocosCreator_v2.4.2_linux.run -O CocosCreator.run"
 
       - name: Setup Env
         run: |
